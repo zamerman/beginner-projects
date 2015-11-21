@@ -1,14 +1,15 @@
-# Beginner-Projects
+Beginner Projects
+=======
 Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing)
 
 
 ## Table of Contents
-
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
 
 
 Ordered from easiest to hardest:
-#### 99 Bottles of Beer on the Wall Lyrics
+99 Bottles
+-----------
 - Create a program that prints out every line to the song "99 bottles of beer on the wall."
 - If you are going to use a list for all of the numbers, do not manually type them all in. Instead, use a built in function.
 - Besides the phrase "take one down," you may not type in any numbers/names of numbers directly into your song lyrics.
