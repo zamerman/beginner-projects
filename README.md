@@ -2,12 +2,19 @@ Beginner Projects
 =======
 Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing)
 
-
-## Table of Contents
+## Table of Contents 
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
+- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
+- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
+- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
+- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
+(projects are ordered from easiest to hardest)
 
-
-Ordered from easiest to hardest:
 99 Bottles
 -----------
 - Create a program that prints out every line to the song "99 bottles of beer on the wall."
@@ -16,8 +23,8 @@ Ordered from easiest to hardest:
 - Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
 - Put a blank line between each verse of the song.
 
-#### Magic 8 Ball
------------------
+Magic 8 Ball
+-------------
 - I'm sure you've used a magic 8 ball at one point in your life. You ask it a question, turn it right side up and it gives an answer by way of a floating die with responses written on it.
 - Allow the user to enter their question
 - Display an in progress message( i.e. "thinking")
@@ -30,6 +37,13 @@ Ordered from easiest to hardest:
 - At least 4 buttons: Ask , clear(the text box), play again and quit(this must close the window)
 
 Pythagorean Triples Checker
+---------------------------
+- If you do not know how basic right triangles work, read this article on wikipedia[1] .
+- Create a program that allows the user to input the sides of any triangle, and then return whether the triangle is a Pythagorean Triple or not.
+- If your program requires users to input the sides in a specific order, change the coding so the user can type in the sides in any order. Remember, the hypotenuse (c) is always the longest side.
+- Loop the program so the user can use it more than once without having to restart the program.
+
+
 Coin Estimator By Weight
 Mad Libs Story Maker
 Change Calculator
