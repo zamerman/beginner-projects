@@ -1,17 +1,17 @@
 Beginner Projects
-=======
+=================
 Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing)
 
 ## Table of Contents 
-- [Beginner Projects](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
+- [Beginner Projects](https://github.com/alfredmuffin/Beginner-Projects#beginner-projects)
 
 Beginner Projects
------------
-(projects are ordered by increasing difficulty)
+-----------------
+(projects are ordered from easiest to hardest)
 
 **99 Bottles**
 - Create a program that prints out every line to the song "99 bottles of beer on the wall."
-- If you are going to use a list for all of the numbers, do not manually type them all in. Instead, use a built in function.
+- Do not use a list for all of the numbers, and do not manually type them all in. Use a built in function instead.
 - Besides the phrase "take one down," you may not type in any numbers/names of numbers directly into your song lyrics.
 - Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
 - Put a blank line between each verse of the song.
@@ -22,7 +22,7 @@ Beginner Projects
 - Display an in progress message(i.e. "thinking").
 - Create 20 responses, and show a random response.
 - Allow the user to ask another question or quit.
-- **Bonus:**
+- Bonus:
   - Add a gui.
   - It must have box for users to enter the question.
   - It must have at least 4 buttons: 
@@ -33,9 +33,8 @@ Beginner Projects
 
 **Pythagorean Triples Checker**
 - If you do not know how basic right triangles work, read this article on wikipedia[1] .
-- Create a program that allows the user to input the sides of any triangle, and then return whether the triangle is a Pythagorean Triple or not.
-- If your program requires users to input the sides in a specific order, change the coding so the user can type in the sides in any order. 
-- Remember, the hypotenuse (c) is always the longest side.
+- Allows the user to input the sides of any triangle in any order.
+- Return whether the triangle is a Pythagorean Triple or not.
 - Loop the program so the user can use it more than once without having to restart the program.
 
 **Coin Estimator By Weight**
@@ -55,11 +54,12 @@ Beginner Projects
   - Change the word "a" to "an" when the next word in the sentence begins with a vowel.
 
 **Change Calculator**
-Imagine that your friend is a cashier, but has a hard time counting back change to customers. Create a program that allows him to input a certain amount of change, and then print how how many quarters, dimes, nickels, and pennies are needed to make up the amount needed.
-For example, if he inputs 1.47, the program will tell that he needs 5 quarters, 2 dimes, 0 nickels, and 2 pennies.
-SUBGOALS
-So your friend doesn't have to calculate how much change is needed, allow him to type in the amount of money given to him and the price of the item. The program should then tell him the amount of each coin he needs like usual.
-To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
+- Imagine that your friend is a cashier, but has a hard time counting back change to customers. 
+- Create a program that allows him to input a certain amount of change, and then print how how many quarters, dimes, nickels, and pennies are needed to make up the amount needed.
+Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dimes, 0 nickels, and 2 pennies.
+- Subgoals:
+- So your friend doesn't have to calculate how much change is needed, allow him to type in the amount of money given to him and the price of the item. The program should then tell him the amount of each coin he needs like usual.
+- To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
 
 **Mean, Median, and Mode**
 Background
@@ -229,14 +229,13 @@ Make the program pause once the user has selected an article to read, and allow 
 Allow the user to simply press ENTER to be asked about a new article.
 
 **What’s the Weather?**
-Background
-If you would like to know the basics of what an API is, check out this post by iamapizza. http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok[1]
+ - If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza. 
 Goal
-Create a program that pulls data from OpenWeatherMap.org[2] that prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live. Depending on how skilled you are, you can actually do some neat stuff with this project.
-Subgoals
-Print out data for the next 5-7 days so you have a 5 day/week long forecast.
-Print the data to another file that you can open up and view at, instead of viewing the information in the command line.
-If you know html, write a file that you can print information to so that your project is more interesting. Here is an example of the results from what I threw together. [3]
-Tips
-APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
-Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
+- Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live. 
+- Subgoals:
+  - Print out data for the next 5-7 days so you have a 5 day/week long forecast.
+  - Print the data to another file that you can open up and view at, instead of viewing the information in the command line.
+  - If you know html, write a file that you can print information to so that your project is more interesting. Here is an example of the results from what I threw together.[3]
+- Tips:
+- APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
+- Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
