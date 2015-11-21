@@ -217,7 +217,6 @@ Create a bot that posts the facts to twitter. This may sound hard, but it's actu
 By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
 
 **Random Wikipedia Article**
-Background
 If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so (Click here[1] ).
 However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter Erasto Cortés Juárez[2] has é and á in it. If you look at this specific article's API[3] , you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of this page[4] in the documentation). To make your program work, you're going to have to handle this problem somehow.
 Goal
@@ -229,7 +228,7 @@ Make the program pause once the user has selected an article to read, and allow 
 Allow the user to simply press ENTER to be asked about a new article.
 
 **What’s the Weather?**
- - If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
+- If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
 - Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live. 
 - Subgoals:
   - Print out data for the next 5-7 days so you have a 5 day/week long forecast.
