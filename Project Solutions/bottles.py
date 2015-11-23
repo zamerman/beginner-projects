@@ -3,11 +3,11 @@ count = count[::-1]
 
 for num in count:
     if num != 1:
-        print("%s bottles of beer on the wall, %s bottles of beer.") % (num, num)
+        print("{0} bottles of beer on the wall, {0} bottles of beer.".format(num))
         print("Take one down and pass it around"),
-        print("%s bottles of beer on the wall!\n") % (num - 1)
+        print("{0} bottles of beer on the wall!\n".format(num - 1))
     if num == 1:
-        print("%s bottle of beer on the wall, %s bottle of beer.") % (num, num)
+        print("{0} bottle of beer on the wall, {0} bottle of beer.".format(num))
         print("Take one down and pass it around"),
         print("No more bottles of beer on the wall!\n")
 
