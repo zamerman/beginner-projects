@@ -3,7 +3,8 @@ Beginner Projects
 Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing)
 
 ## Table of Contents 
-- [Beginner Projects](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
+- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
 
 Beginner Projects
 -----------------
@@ -16,7 +17,7 @@ Beginner Projects
 - Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
 - Put a blank line between each verse of the song.
 
-**Magic 8 Ball**
+##### Magic 8 Ball
 - Simulate a magic 8-ball.
 - Allow the user to enter their question.
 - Display an in progress message(i.e. "thinking").
@@ -31,13 +32,13 @@ Beginner Projects
     - play again
     - quit (this must close the window)
 
-**Pythagorean Triples Checker**
+##### Pythagorean Triples Checker
 - If you do not know how basic right triangles work, read this article on wikipedia[1] .
 - Allows the user to input the sides of any triangle in any order.
 - Return whether the triangle is a Pythagorean Triple or not.
 - Loop the program so the user can use it more than once without having to restart the program.
 
-**Coin Estimator By Weight**
+##### Coin Estimator By Weight
 - Allows the user to input the total weight of each type of coin they have (pennies, nickels, dimes, and quarters).
 - Print out how many of each type of coin wrapper they would need, how many coins they have, and the estimated total value of all of their money.
 - Weight of each coin[2] and how many fit inside each type of wrapper[3].
@@ -45,7 +46,7 @@ Beginner Projects
   - Round all numbers printed out to the nearest whole number.
   - Allow the user to select whether they want to submit the weight in either grams or pounds.
 
-**Mad Libs Story Maker**
+##### Mad Libs Story Maker
 - Create a Mad Libs style game, where the program asks the user for certain types of words, and then prints out a story with the words that the user inputted. 
 - The story doesn't have to be too long, but it should have some sort of story line.
 - Tip: it's easiest to write out a quick story on a piece of paper or a word document, and then go back through and see which words the user should be able to change.
@@ -53,7 +54,7 @@ Beginner Projects
   - If the user has to put in a name, change the first letter to a capital letter.
   - Change the word "a" to "an" when the next word in the sentence begins with a vowel.
 
-**Change Calculator**
+##### Change Calculator
 - Imagine that your friend is a cashier, but has a hard time counting back change to customers. 
 - Create a program that allows him to input a certain amount of change, and then print how how many quarters, dimes, nickels, and pennies are needed to make up the amount needed.
 Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dimes, 0 nickels, and 2 pennies.
@@ -61,7 +62,7 @@ Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dim
 - So your friend doesn't have to calculate how much change is needed, allow him to type in the amount of money given to him and the price of the item. The program should then tell him the amount of each coin he needs like usual.
 - To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
 
-**Mean, Median, and Mode**
+##### Mean, Median, and Mode
 Background
 In a set of numbers, the mean is the average, the mode is the number that occurs the most, and if you rearrange all the numbers numerically, the median is the number in the middle.
 Goal
@@ -71,33 +72,33 @@ In the mean function, give the user a way to select how many decimal places they
 If there is an even number of numbers in the list, return both numbers that could be considered the median.
 If there are multiple modes, return all of them.
 
-**Higher Lower Guessing Game**
+##### Higher Lower Guessing Game
 BASIC GOAL Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is. After every guess, the computer should tell the user if the guess is higher or lower than the answer. When the user guesses the correct number, print out a congratulatory message.
 SUB GOALS
 Add an introduction message that explains to the user how to play your game.
 In addition to the congratulatory message at the end of the game, also print out how many guesses were taken before the user arrived at the correct answer.
 At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
 
-**Multiplication Table**
+##### Multiplication Table
 Goal
 Create a program that prints out a multiplication table for the numbers 1 through 9. It should include the numbers 1 through 9 on the top and left axises, and it should be relatively easy to find the product of two numbers. Do not simply write out every line manually (ie print('7 14 21 28 35 49 56 63') ).
 Subgoals
 As your products get larger, your columns will start to get crooked from the number of characters on each line. Clean up your table by evenly spacing columns so it is very easy to find the product of two numbers.
 Allow the user to choose a number to change the size of the table (so if they type in 12, the table printed out should be a 12x12 multiplication table).
 
-**Fibonacci Sequence**
+##### Fibonacci Sequence
 BACKGROUND INFORMATION If you do not know about the Fibonacci Sequence, read the information on MathIsFun.com[1] .
 GOAL
 Define a function that allows the user to find the value of the nth term in the sequence. To make sure you've written your function correctly, test the first 10 numbers of the sequence. Remember, the 0th term is 0 and the first and second term are both 1.
 
-**Hangman Game**
+##### Hangman Game
 Goal
 Create a program that selects a random word and then allows the user to guess it in a game of hangman. Like the real game, there should be blank spots for each letter in the word, and a part of the body should be added each time the user guesses a letter than is not in the answer (you may choose how many wrong turns the user can make until the game ends).
 Subgoals
 If the user loses, print out the word at the end of the game.
 Create a "give up" option.
 
-**Menu Calculator**
+##### Menu Calculator
 GOAL
 Imagine you have started up a small restaurant and are trying to make it easier to take and calculate orders. Since your restaurant only sells 9 different items, you assign each one to a number, as shown below.
 Chicken Strips - $3.50
@@ -114,7 +115,7 @@ SUBGOALS
 If you decide to, print out the items and prices every time before the user types in an order.
 Once the user has entered an order, print out how many of each item have been ordered, as well as the total price. If an item was not ordered at all, then it should not show up.
 
-**Dice Rolling Simulator**
+##### Dice Rolling Simulator
 Goal
 By using the random module, python can do things like pseudo-random number generation. So in this program, allow the user to input the amount of sides on a dice and how many times it should be rolled. From there, your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed). After that, print out how many times each number came up.
 Subgoal
@@ -122,11 +123,11 @@ Adjust your program so that if the user does not type in a number when they need
 Put the program into a loop so that the user can continue to simulate dice rolls without having to restart the entire program.
 In addition to printing out how many times each side appeared, also print out the percentage it appeared. If you can, round the percentage to 4 digits total OR two decimal places.
 
-**Creating a Dice Simulator**
+##### Creating a Dice Simulator
 Goals You are about to play a board game, but you realize you don't have any dice. Fortunately you have this program. 1. Create a program that opens a new window and draws 2 six-sided dice 2. Allow the user to quit, or roll again
 Bonus 1. Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
 
-**Count and Fix Green Eggs and Ham**
+##### Count and Fix Green Eggs and Ham
 Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, here is the story[1] . However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
 Because of this problem, your job is to do the following...
 Copy the story I gave you into a regular text file.
@@ -135,7 +136,7 @@ Have your program make a new file, and have it write out the story correctly.
 Print out how many errors were corrected.
 When you're finished, you should have corrected 70 errors [2] .
 
-**What’s My Number?**
+##### What’s My Number?
 Between 1 and 1000, there is only 1 number that meets the following criteria. While it could be manually figured out with pen and paper, it would be much more efficient to write a program that would do this for you. With that being said, your goal is to find out which number meets these criteria. To find out if you have the correct number, click the link at the bottom of this main post.
 The number has two or more digits.
 The number is prime.
@@ -145,10 +146,10 @@ The first two digits add up to be odd.
 The second to last digit is even.
 The last digit is equal to how many digits are in the number.
 
-**Factors of a Number**
+##### Factors of a Number
 Define a function that creates a list of all the numbers that are factors of the user's number. For example, if the function is called factor, factor(36) should return [1,2,3,4,6,9,12,18,36]. The numbers in your list should be from least to greatest, and 1 and the original number should be included.
 
-**Countdown Clock**
+##### Countdown Clock
 GOAL
 Create a program that allows the user to choose a time and date, and then prints out a message at given intervals (such as every second) that tells the user how much longer there is until the selected time.
 SUBGOALS
@@ -156,7 +157,7 @@ If the selected time has already passed, have the program tell the user to start
 If your program asks for the year, month, day, hour, etc. separately, allow the user to be able to type in either the month name or its number.
 TIP: Making use of built in modules such as time and datetime can change this project from a nightmare into a much simpler task.
 
-**Turn Based Pokemon Style Game**
+##### Turn Based Pokemon Style Game
 GOAL
 Write a simple game that allows the user and the computer to take turns selecting moves to use against each other. Both the computer and the player should start out at the same amount of health (such as 100), and should be able to choose between the three moves:
 The first move should do moderate damage and has a small range (such as 18-25).
@@ -168,7 +169,7 @@ When someone is defeated, make sure the game prints out that their health has re
 When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
 Give each move a name.
 
-**A Variation of 21**
+##### A Variation of 21
 BACKGROUND INFORMATION
 If you do not know how 21 (AKA Blackjack) is played, reading the first couple of paragraphs of this wikipedia article[1] may be beneficial.
 MAIN GOAL
@@ -188,7 +189,7 @@ Create a ranking system at the end of the game and tell the user their rank. For
 At the end of each round, print out the user's total score.
 This may be the hardest part of the project, depending on how you wrote it. Make sure the deck has 4 of each type of card, and then remove cards as they are drawn. At the end of each round, make the deck have all of the cards again.
 
-**Compare Recent reddit Karma**
+##### Compare Recent reddit Karma
 Background
 Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1] . At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
 Goal
@@ -201,7 +202,7 @@ Allow the user to keep comparing other users until the program is closed.
 Display the amount of upvotes and downvotes each user received for their posts.
 Not sure how to turn json data into usable python data? Check this out[2] .
 
-**Watch for new /r/TIL facts**
+##### Watch for new /r/TIL facts
 Background
 If you finished the previous project[1] which compared the karma of two new comments, hopefully you learned a thing or two about receiving data from Reddit's API. Now you're going to take this a step further, and even have the opportunity to make a basic twitter bot.
 Goal
@@ -216,7 +217,7 @@ Write the facts to a separate text file so you end up with a giant compilation o
 Create a bot that posts the facts to twitter. This may sound hard, but it's actually pretty simple by using the "Python Twitter Tools[5] " module and following the guide posted here[6] . Remember, the maximum amount of characters you can use in a tweet is only 140, so you'll have to filter out facts that are longer than that.
 By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
 
-**Random Wikipedia Article**
+##### Random Wikipedia Article
 If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so (Click here[1] ).
 However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter Erasto Cortés Juárez[2] has é and á in it. If you look at this specific article's API[3] , you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of this page[4] in the documentation). To make your program work, you're going to have to handle this problem somehow.
 Goal
@@ -227,7 +228,7 @@ As mentioned before, do something about the possibility of unicode appearing in 
 Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
 Allow the user to simply press ENTER to be asked about a new article.
 
-**What’s the Weather?**
+##### What’s the Weather?
 - If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
 - Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live. 
 - Subgoals:
