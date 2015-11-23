@@ -112,7 +112,7 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - Allow the user to choose a number to change the size of the table (so if they type in 12, the table printed out should be a 12x12 multiplication table).
 
 ##### Fibonacci Sequence
-If you do not know about the Fibonacci Sequence, read the information on MathIsFun.com[1] .
+If you do not know about the Fibonacci Sequence, read the information on [MathIsFun.com](http://www.mathsisfun.com/numbers/fibonacci-sequence.html).
 - Define a function that allows the user to find the value of the nth term in the sequence. 
 - To make sure you've written your function correctly, test the first 10 numbers of the sequence. 
 - Remember, the 0th term is 0 and the first and second term are both 1.
