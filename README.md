@@ -5,6 +5,29 @@ Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQI
 ## Table of Contents 
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
+- [Pythagorean Triples Checker](https://github.com/alfredmuffin/Beginner-Projects#pythagorean-triples-checker)
+- [Coin Estimator By Weight](https://github.com/alfredmuffin/Beginner-Projects#coin-estimator-by-weight)
+- [Mad Libs Story Makes](https://github.com/alfredmuffin/Beginner-Projects#mad-libs-story-maker)
+- [Change Calculator](https://github.com/alfredmuffin/Beginner-Projects#change-calculator)
+- [Mean, Median, and Mode](https://github.com/alfredmuffin/Beginner-Projects#mean-median-and-mode)
+- [Higher Lower Guessing Game](https://github.com/alfredmuffin/Beginner-Projects#higher-lower-guessing-game)
+- [Multiplication Table](https://github.com/alfredmuffin/Beginner-Projects#multiplication-table)
+- [Fibonacci Sequence](https://github.com/alfredmuffin/Beginner-Projects#fibonacci-sequence)
+- [Hangman Game](https://github.com/alfredmuffin/Beginner-Projects#hangman-game)
+- [Menu Calculator](https://github.com/alfredmuffin/Beginner-Projects#menu-calculator)
+- [Dice Rolling Simulator](https://github.com/alfredmuffin/Beginner-Projects#dice-rolling-simulator)
+- [Creating a Dice Simulator](https://github.com/alfredmuffin/Beginner-Projects#creating-a-dice-simulator)
+- [Count and Fix Green Eggs and Ham](https://github.com/alfredmuffin/Beginner-Projects#count-and-fix-green-eggs-and-ham)
+- [What's My Number?](https://github.com/alfredmuffin/Beginner-Projects#whats-my-number)
+- [Factors of a Number](https://github.com/alfredmuffin/Beginner-Projects#mfactors-of-a-number)
+- [Countdown Clock](https://github.com/alfredmuffin/Beginner-Projects#countdown-clock)
+- [Turn Based Pokemon Style Game](https://github.com/alfredmuffin/Beginner-Projects#turn-based-pokemon-style-game)
+- [A Variation of 21](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
+- [Compare Recent reddit Karma](https://github.com/alfredmuffin/Beginner-Projects#compare-recent-reddit-karma)
+- [Watch for New /r/TIL Facts](https://github.com/alfredmuffin/Beginner-Projects#watch-for-new-/r/til-facts)
+- [Random Wikipedia Article](https://github.com/alfredmuffin/Beginner-Projects#random-wikipedia-article)
+- [What's the Weather?](https://github.com/alfredmuffin/Beginner-Projects#whats-the-weather)
+
 
 Beginner Projects
 -----------------
