@@ -23,7 +23,7 @@ Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQI
 - [Turn Based Pokemon Style Game](https://github.com/alfredmuffin/Beginner-Projects#turn-based-pokemon-style-game)
 - [A Variation of 21](https://github.com/alfredmuffin/Beginner-Projects#a-variation-of-21)
 - [Compare Recent reddit Karma](https://github.com/alfredmuffin/Beginner-Projects#compare-recent-reddit-karma)
-- [Watch for New /r/TIL Facts](https://github.com/alfredmuffin/Beginner-Projects#watch-for-new-til-facts)
+- [Watch for New TIL Facts](https://github.com/alfredmuffin/Beginner-Projects#watch-for-new-til-facts)
 - [Random Wikipedia Article](https://github.com/alfredmuffin/Beginner-Projects#random-wikipedia-article)
 - [What's the Weather?](https://github.com/alfredmuffin/Beginner-Projects#whats-the-weather)
 
@@ -156,79 +156,84 @@ By using the random module, Python can do things like pseudo-random number gener
   - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
 
 ##### Count and Fix Green Eggs and Ham
-Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, here is the story[1] . However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
-Because of this problem, your job is to do the following...
-Copy the story I gave you into a regular text file.
-Create a program that reads through the story and makes the letter i uppercase any time it should be. (Make sure to change it when it's used in sam-I-am's name too.)
-Have your program make a new file, and have it write out the story correctly.
-Print out how many errors were corrected.
-When you're finished, you should have corrected 70 errors [2] .
+Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, [here](http://pastebin.com/XMY48CnN) is the story. However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
+Because of this problem, your job is to do the following:
+- Copy the story I gave you into a regular text file.
+- Create a program that reads through the story and makes the letter i uppercase any time it should be. (Make sure to change it when it's used in sam-I-am's name too.)
+- Have your program make a new file, and have it write out the story correctly.
+- Print out how many errors were corrected.
+- When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
 
 ##### What’s My Number?
-Between 1 and 1000, there is only 1 number that meets the following criteria. While it could be manually figured out with pen and paper, it would be much more efficient to write a program that would do this for you. With that being said, your goal is to find out which number meets these criteria. To find out if you have the correct number, click the link at the bottom of this main post.
-The number has two or more digits.
-The number is prime.
-The number does NOT contain a 1 or 7 in it.
-The sum of all of the digits is less than or equal to 10.
-The first two digits add up to be odd.
-The second to last digit is even.
-The last digit is equal to how many digits are in the number.
+Between 1 and 1000, there is only 1 number that meets the following criteria:
+- The number has two or more digits.
+- The number is prime.
+- The number does NOT contain a 1 or 7 in it.
+- The sum of all of the digits is less than or equal to 10.
+- The first two digits add up to be odd.
+- The second to last digit is even.
+- The last digit is equal to how many digits are in the number.
+To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
 
 ##### Factors of a Number
-Define a function that creates a list of all the numbers that are factors of the user's number. For example, if the function is called factor, factor(36) should return [1,2,3,4,6,9,12,18,36]. The numbers in your list should be from least to greatest, and 1 and the original number should be included.
+- Define a function that creates a list of all the numbers that are factors of the user's number. 
+- For example, if the function is called factor, factor(36) should return [1,2,3,4,6,9,12,18,36]. 
+- The numbers in your list should be sorted from least to greatest, and 1 and the original number should be included.
 
 ##### Countdown Clock
-GOAL
-Create a program that allows the user to choose a time and date, and then prints out a message at given intervals (such as every second) that tells the user how much longer there is until the selected time.
-SUBGOALS
-If the selected time has already passed, have the program tell the user to start over.
-If your program asks for the year, month, day, hour, etc. separately, allow the user to be able to type in either the month name or its number.
-TIP: Making use of built in modules such as time and datetime can change this project from a nightmare into a much simpler task.
+- Create a program that allows the user to choose a time and date, and then prints out a message at given intervals (such as every second) that tells the user how much longer there is until the selected time.]
+- Subgoals:
+  - If the selected time has already passed, have the program tell the user to start over.
+  - If your program asks for the year, month, day, hour, etc. separately, allow the user to be able to type in either the month name or its number.
+  - TIP: Making use of built in modules such as time and datetime can change this project from a nightmare into a much simpler task.
 
 ##### Turn Based Pokemon Style Game
-GOAL
-Write a simple game that allows the user and the computer to take turns selecting moves to use against each other. Both the computer and the player should start out at the same amount of health (such as 100), and should be able to choose between the three moves:
-The first move should do moderate damage and has a small range (such as 18-25).
-The second move should have a large range of damage and can deal high or low damage (such as 10-35).
-The third move should heal whoever casts it a moderate amount, similar to the first move.
-After each move, a message should be printed out that tells the user what just happened, and how much health the user and computer have. Once the user or the computer's health reaches 0, the game should end.
-SUBGOALS
-When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number.
-When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
-Give each move a name.
+- Write a simple game that allows the user and the computer to take turns selecting moves to use against each other. 
+- Both the computer and the player should start out at the same amount of health (such as 100), and should be able to choose between the three moves:
+  - The first move should do moderate damage and has a small range (such as 18-25).
+  - The second move should have a large range of damage and can deal high or low damage (such as 10-35).
+  - The third move should heal whoever casts it a moderate amount, similar to the first move.
+- After each move, a message should be printed out that tells the user what just happened, and how much health the user and computer have. Once the user or the computer's health reaches 0, the game should end.
+- Subgoals:
+  - When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number.
+  - When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
+  - Give each move a name.
 
 ##### A Variation of 21
-BACKGROUND INFORMATION
-If you do not know how 21 (AKA Blackjack) is played, reading the first couple of paragraphs of this wikipedia article[1] may be beneficial.
-MAIN GOAL
-In this project, you will make a game similar to 21/blackjack. Since this is not an actual game (as far as I'm aware of), here the the instructions for how to play.
-In this version, there is only one player, and there are two types of scores - the round score and the game score. The game score will begin at 100, and the game will last for five rounds.
-At the beginning of the round, the player is given two random cards from a deck and they will be added together to make the player's round score. From here, the player has two options - draw another card to try to get their round score closer to 21, or they can end the round. The player can draw as many cards as they want until they end the round or their round score exceeds 21.
-At the end of the round, the difference between 21 and the round score is subtracted from the game score, and then the next round begins. After the five rounds, the player is given their total score and the game is over.
+If you do not know how 21 (AKA Blackjack) is played, reading the first couple of paragraphs of [this](https://en.wikipedia.org/wiki/Blackjack) wikipedia article may be beneficial.
+
+In this project, you will make a game similar to Blackjack. In this version:
+- There is only one player.
+- There are two types of scores: the game score and the round score. 
+- The game score will begin at 100, and the game will last for five rounds.
+- At the beginning of the round, the player is given two random cards from a deck and they will be added together to make the player's round score. 
+- From here, the player has two options - draw another card to try to get their round score closer to 21, or they can end the round. 
+- The player can draw as many cards as they want until they end the round or their round score exceeds 21.
+- At the end of the round, the difference between 21 and the round score is subtracted from the game score, and then the next round begins. After the five rounds, the player is given their total score and the game is over.
 ---Other Information About The Game---
-Aces are only worth 1.
-If a player busts, 21 is subtracted from their total score.
-All face cards are worth 10.
-So the point of your program is to allow the user to play the game described above. Many of the subgoals listed below can be added to shine up the game.
-SUBGOALS
-At the beginning of each round, print the round number (1 to 5).
-Since this is a text base game, tell the user what is happening. For example, tell him/her when he/she draws a card, the name of the card, when they bust, etc.
-Create a ranking system at the end of the game and tell the user their rank. For example, if the player finishes with 50-59 points they get an F, 60-69 is a D, 70-79 is a C, 80-89 is a B, and 90-100 is an A.
-At the end of each round, print out the user's total score.
-This may be the hardest part of the project, depending on how you wrote it. Make sure the deck has 4 of each type of card, and then remove cards as they are drawn. At the end of each round, make the deck have all of the cards again.
+- Aces are only worth 1.
+- If a player busts, 21 is subtracted from their total score.
+- All face cards are worth 10.
+- So the point of your program is to allow the user to play the game described above.
+- Subgoals:
+  - At the beginning of each round, print the round number (1 to 5).
+  - Since this is a text base game, tell the user what is happening. For example, tell him/her when he/she draws a card, the name of the card, when they bust, etc.
+  - Create a ranking system at the end of the game and tell the user their rank. For example, if the player finishes with 50-59 points they get an F, 60-69 is a D, 70-79 is a C, 80-89 is a B, and 90-100 is an A.
+  - At the end of each round, print out the user's total score.
+  - This may be the hardest part of the project, depending on how you wrote it. Make sure the deck has 4 of each type of card, and then remove cards as they are drawn. At the end of each round, make the deck have all of the cards again.
 
 ##### Compare Recent reddit Karma
-Background
-Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1] . At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
-Goal
-Create a program that gets information about two different users, and then sees whose most recent post received the most karma. The program should then print out which user received more karma, and what the difference was. This is a pretty open project, so I encourage you to take it further by adding more features if you find it interesting.
-Remember - Elements in a list are referenced by their index numbers while entries in a dictionary are referenced by their keys.
-Subgoals
-Allow the user to put in the name of two different users when the program first begins.
-If one of the names of the users does not exist (because of a spelling error), print out a message saying so.
-Allow the user to keep comparing other users until the program is closed.
-Display the amount of upvotes and downvotes each user received for their posts.
-Not sure how to turn json data into usable python data? Check this out[2] .
+Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1]. At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
+- Create a program that gets information about two different users, and then sees whose most recent post received the most karma.
+- The program should then print out which user received more karma, and what the difference was. 
+- This is a pretty open project, so I encourage you to take it further by adding more features if you find it interesting.
+- Remember - Elements in a list are referenced by their index numbers while entries in a dictionary are referenced by their keys.
+- Subgoals:
+  - Allow the user to put in the name of two different users when the program first begins.
+  - If one of the names of the users does not exist (because of a spelling error), print out a message saying so.
+  - Allow the user to keep comparing other users until the program is closed.
+  - Display the amount of upvotes and downvotes each user received for their posts.
+  - Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
 
 ##### Watch for new TIL facts
 Background
@@ -246,16 +251,17 @@ Create a bot that posts the facts to twitter. This may sound hard, but it's actu
 By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
 
 ##### Random Wikipedia Article
-If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so (Click here[1] ).
-However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter Erasto Cortés Juárez[2] has é and á in it. If you look at this specific article's API[3] , you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of this page[4] in the documentation). To make your program work, you're going to have to handle this problem somehow.
+If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so [Click here](https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=10&format=json).
+However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter [Erasto Cortés Juárez](https://en.wikipedia.org/wiki/Erasto_Cort%C3%A9s_Ju%C3%A1rez) has é and á in it. If you look at this specific article's [API](https://en.wikipedia.org/w/api.php?action=query&prop=info&pageids=39608394&inprop=url&format=json), you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of [this page](https://docs.python.org/2/howto/unicode.html) in the documentation). To make your program work, you're going to have to handle this problem somehow.
 - Create a program that pulls titles from the official Wikipedia API and then asks the user one by one if he or she would like to read about that article. 
 - Example:
   - If the first title is Reddit, then the program should ask something along the lines of "Would you like to read about Reddit?" If the user says yes, then the program should open up the article for the user to read.
-HINT: Mouse over the hidden area below to see how the article's ID can be used to access the actual article. http://en.wikipedia.org/wiki?curid=39608394[5]
-Subgoals
-As mentioned before, do something about the possibility of unicode appearing in the title. Whether you want your program to simply filter out these articles or you want to actually turn the codes into readable characters, that's up to you.
-Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
-Allow the user to simply press ENTER to be asked about a new article.
+  - HINT: Click [here](https://en.wikipedia.org/wiki?curid=39608394) to see how the article's ID can be used to access the actual article.
+- Subgoals:
+  - As mentioned before, do something about the possibility of unicode appearing in the title.
+  - Whether you want your program to simply filter out these articles or you want to actually turn the codes into readable characters, that's up to you.
+  - Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
+  - Allow the user to simply press ENTER to be asked about a new article.
 
 ##### What’s the Weather?
 If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
