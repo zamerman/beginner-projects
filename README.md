@@ -16,10 +16,9 @@ Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQI
 - [Hangman Game](https://github.com/alfredmuffin/Beginner-Projects#hangman-game)
 - [Menu Calculator](https://github.com/alfredmuffin/Beginner-Projects#menu-calculator)
 - [Dice Rolling Simulator](https://github.com/alfredmuffin/Beginner-Projects#dice-rolling-simulator)
-- [Creating a Dice Simulator](https://github.com/alfredmuffin/Beginner-Projects#creating-a-dice-simulator)
 - [Count and Fix Green Eggs and Ham](https://github.com/alfredmuffin/Beginner-Projects#count-and-fix-green-eggs-and-ham)
 - [What's My Number?](https://github.com/alfredmuffin/Beginner-Projects#whats-my-number)
-- [Factors of a Number](https://github.com/alfredmuffin/Beginner-Projects#mfactors-of-a-number)
+- [Factors of a Number](https://github.com/alfredmuffin/Beginner-Projects#factors-of-a-number)
 - [Countdown Clock](https://github.com/alfredmuffin/Beginner-Projects#countdown-clock)
 - [Turn Based Pokemon Style Game](https://github.com/alfredmuffin/Beginner-Projects#turn-based-pokemon-style-game)
 - [A Variation of 21](https://github.com/alfredmuffin/Beginner-Projects#a-variation-of-21)
@@ -82,73 +81,79 @@ Beginner Projects
 - Create a program that allows him to input a certain amount of change, and then print how how many quarters, dimes, nickels, and pennies are needed to make up the amount needed.
 Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dimes, 0 nickels, and 2 pennies.
 - Subgoals:
-- So your friend doesn't have to calculate how much change is needed, allow him to type in the amount of money given to him and the price of the item. The program should then tell him the amount of each coin he needs like usual.
-- To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
+  - So your friend doesn't have to calculate how much change is needed, allow him to type in the amount of money given to him and the price of the item. The program should then tell him the amount of each coin he needs like usual.
+  - To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
 
 ##### Mean, Median, and Mode
-Background
 In a set of numbers, the mean is the average, the mode is the number that occurs the most, and if you rearrange all the numbers numerically, the median is the number in the middle.
-Goal
-Create three functions that allow the user to find the mean, median, and mode of a list of numbers. If you have access or know of functions that already complete these tasks, do not use them.
-Subgoals
-In the mean function, give the user a way to select how many decimal places they want the answer to be rounded to.
-If there is an even number of numbers in the list, return both numbers that could be considered the median.
-If there are multiple modes, return all of them.
+- Create three functions that allow the user to find the mean, median, and mode of a list of numbers. If you have access or know of functions that already complete these tasks, do not use them.
+- Subgoals
+  - In the mean function, give the user a way to select how many decimal places they want the answer to be rounded to.
+  - If there is an even number of numbers in the list, return both numbers that could be considered the median.
+  - If there are multiple modes, return all of them.
 
 ##### Higher Lower Guessing Game
-BASIC GOAL Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is. After every guess, the computer should tell the user if the guess is higher or lower than the answer. When the user guesses the correct number, print out a congratulatory message.
-SUB GOALS
-Add an introduction message that explains to the user how to play your game.
-In addition to the congratulatory message at the end of the game, also print out how many guesses were taken before the user arrived at the correct answer.
-At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
+- Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is. 
+- After every guess, the computer should tell the user if the guess is higher or lower than the answer. 
+- When the user guesses the correct number, print out a congratulatory message.
+- Subgoals:
+  - Add an introductory message that explains to the user how to play your game.
+  - In addition to the congratulatory message at the end of the game, also print out how many guesses were taken before the user arrived at the correct answer.
+  - At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
 
 ##### Multiplication Table
-Goal
-Create a program that prints out a multiplication table for the numbers 1 through 9. It should include the numbers 1 through 9 on the top and left axises, and it should be relatively easy to find the product of two numbers. Do not simply write out every line manually (ie print('7 14 21 28 35 49 56 63') ).
-Subgoals
-As your products get larger, your columns will start to get crooked from the number of characters on each line. Clean up your table by evenly spacing columns so it is very easy to find the product of two numbers.
-Allow the user to choose a number to change the size of the table (so if they type in 12, the table printed out should be a 12x12 multiplication table).
+- Create a program that prints out a multiplication table for the numbers 1 through 9. 
+- It should include the numbers 1 through 9 on the top and left axises, and it should be relatively easy to find the product of two numbers. Do not simply write out every line manually (ie print('7 14 21 28 35 49 56 63') ).
+- Subgoals:
+  - As your products get larger, your columns will start to get crooked from the number of characters on each line. Clean up your table by evenly spacing columns so it is very easy to find the product of two numbers.
+  - Allow the user to choose a number to change the size of the table (so if they type in 12, the table printed out should be a 12x12 multiplication table).
 
 ##### Fibonacci Sequence
-BACKGROUND INFORMATION If you do not know about the Fibonacci Sequence, read the information on MathIsFun.com[1] .
-GOAL
-Define a function that allows the user to find the value of the nth term in the sequence. To make sure you've written your function correctly, test the first 10 numbers of the sequence. Remember, the 0th term is 0 and the first and second term are both 1.
+If you do not know about the Fibonacci Sequence, read the information on MathIsFun.com[1] .
+- Define a function that allows the user to find the value of the nth term in the sequence. 
+- To make sure you've written your function correctly, test the first 10 numbers of the sequence. 
+- Remember, the 0th term is 0 and the first and second term are both 1.
 
 ##### Hangman Game
-Goal
-Create a program that selects a random word and then allows the user to guess it in a game of hangman. Like the real game, there should be blank spots for each letter in the word, and a part of the body should be added each time the user guesses a letter than is not in the answer (you may choose how many wrong turns the user can make until the game ends).
-Subgoals
-If the user loses, print out the word at the end of the game.
-Create a "give up" option.
+- Create a program that selects a random word and then allows the user to guess it in a game of hangman. 
+- Like the real game, there should be blank spots for each letter in the word, and a part of the body should be added each time the user guesses a letter than is not in the answer.
+- You may choose how many wrong turns the user can make until the game ends.
+- Subgoals:
+  - If the user loses, print out the word at the end of the game.
+  - Create a "give up" option.
 
 ##### Menu Calculator
-GOAL
 Imagine you have started up a small restaurant and are trying to make it easier to take and calculate orders. Since your restaurant only sells 9 different items, you assign each one to a number, as shown below.
-Chicken Strips - $3.50
-French Fries - $2.50
-Hamburger - $4.00
-Hotdog - $3.50
-Large Drink - $1.75
-Medium Drink - $1.50
-Milk Shake - $2.25
-Salad - $3.75
-Small Drink - $1.25
+- Chicken Strips - $3.50
+- French Fries - $2.50
+- Hamburger - $4.00
+- Hotdog - $3.50
+- Large Drink - $1.75
+- Medium Drink - $1.50
+- Milk Shake - $2.25
+- Salad - $3.75
+- Small Drink - $1.25
+
 To quickly take orders, your program should allow the user to type in a string of numbers and then it should calculate the cost of the order. For example, if one large drink, two small drinks, two hamburgers, one hotdog, and a salad are ordered, the user should type in 5993348, and the program should say that it costs $19.50. Also, make sure that the program loops so the user can take multiple orders without having to restart the program each time.
-SUBGOALS
-If you decide to, print out the items and prices every time before the user types in an order.
-Once the user has entered an order, print out how many of each item have been ordered, as well as the total price. If an item was not ordered at all, then it should not show up.
+- Subgoals:
+  - If you decide to, print out the items and prices every time before the user types in an order.
+  - Once the user has entered an order, print out how many of each item have been ordered, as well as the total price. 
+  - If an item was not ordered at all, then it should not show up.
 
 ##### Dice Rolling Simulator
-Goal
-By using the random module, python can do things like pseudo-random number generation. So in this program, allow the user to input the amount of sides on a dice and how many times it should be rolled. From there, your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed). After that, print out how many times each number came up.
-Subgoal
-Adjust your program so that if the user does not type in a number when they need to, the program will keep prompting them to type in a real number until they do so.
-Put the program into a loop so that the user can continue to simulate dice rolls without having to restart the entire program.
-In addition to printing out how many times each side appeared, also print out the percentage it appeared. If you can, round the percentage to 4 digits total OR two decimal places.
-
-##### Creating a Dice Simulator
-Goals You are about to play a board game, but you realize you don't have any dice. Fortunately you have this program. 1. Create a program that opens a new window and draws 2 six-sided dice 2. Allow the user to quit, or roll again
-Bonus 1. Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
+By using the random module, Python can do things like pseudo-random number generation. 
+- Allow the user to input the amount of sides on a dice and how many times it should be rolled. 
+- Your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed). 
+- Finally, print out how many times each number came up.
+- Subgoals:
+  - Adjust your program so that if the user does not type in a number when they need to, the program will keep prompting them to type in a real number until they do so.
+  - Put the program into a loop so that the user can continue to simulate dice rolls without having to restart the entire program.
+  - In addition to printing out how many times each side appeared, also print out the percentage it appeared. If you can, round the percentage to 4 digits total OR two decimal places.
+- Bonus:
+  - You are about to play a board game, but you realize you don't have any dice. Fortunately you have this program. 
+  - 1. Create a program that opens a new window and draws 2 six-sided dice 
+  - 2. Allow the user to quit, or roll again
+  - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
 
 ##### Count and Fix Green Eggs and Ham
 Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, here is the story[1] . However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
@@ -225,7 +230,7 @@ Allow the user to keep comparing other users until the program is closed.
 Display the amount of upvotes and downvotes each user received for their posts.
 Not sure how to turn json data into usable python data? Check this out[2] .
 
-##### Watch for new /r/TIL facts
+##### Watch for new TIL facts
 Background
 If you finished the previous project[1] which compared the karma of two new comments, hopefully you learned a thing or two about receiving data from Reddit's API. Now you're going to take this a step further, and even have the opportunity to make a basic twitter bot.
 Goal
@@ -243,8 +248,9 @@ By now you should be pretty familiar with python, so if you get ideas for improv
 ##### Random Wikipedia Article
 If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so (Click here[1] ).
 However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter Erasto Cortés Juárez[2] has é and á in it. If you look at this specific article's API[3] , you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of this page[4] in the documentation). To make your program work, you're going to have to handle this problem somehow.
-Goal
-Create a program that pulls titles from the official Wikipedia API and then asks the user one by one if he or she would like to read about that article. So if the first title is Reddit, then the program should ask something along the lines of "Would you like to read about Reddit?" If the user says yes, then the program should open up the article for the user to read.
+- Create a program that pulls titles from the official Wikipedia API and then asks the user one by one if he or she would like to read about that article. 
+- Example:
+  - If the first title is Reddit, then the program should ask something along the lines of "Would you like to read about Reddit?" If the user says yes, then the program should open up the article for the user to read.
 HINT: Mouse over the hidden area below to see how the article's ID can be used to access the actual article. http://en.wikipedia.org/wiki?curid=39608394[5]
 Subgoals
 As mentioned before, do something about the possibility of unicode appearing in the title. Whether you want your program to simply filter out these articles or you want to actually turn the codes into readable characters, that's up to you.
@@ -252,7 +258,7 @@ Make the program pause once the user has selected an article to read, and allow 
 Allow the user to simply press ENTER to be asked about a new article.
 
 ##### What’s the Weather?
-- If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
+If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
 - Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live. 
 - Subgoals:
   - Print out data for the next 5-7 days so you have a 5 day/week long forecast.
