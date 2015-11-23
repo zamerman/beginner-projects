@@ -22,9 +22,9 @@ Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQI
 - [Factors of a Number](https://github.com/alfredmuffin/Beginner-Projects#mfactors-of-a-number)
 - [Countdown Clock](https://github.com/alfredmuffin/Beginner-Projects#countdown-clock)
 - [Turn Based Pokemon Style Game](https://github.com/alfredmuffin/Beginner-Projects#turn-based-pokemon-style-game)
-- [A Variation of 21](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
+- [A Variation of 21](https://github.com/alfredmuffin/Beginner-Projects#a-variation-of-21)
 - [Compare Recent reddit Karma](https://github.com/alfredmuffin/Beginner-Projects#compare-recent-reddit-karma)
-- [Watch for New /r/TIL Facts](https://github.com/alfredmuffin/Beginner-Projects#watch-for-new-/r/til-facts)
+- [Watch for New /r/TIL Facts](https://github.com/alfredmuffin/Beginner-Projects#watch-for-new-til-facts)
 - [Random Wikipedia Article](https://github.com/alfredmuffin/Beginner-Projects#random-wikipedia-article)
 - [What's the Weather?](https://github.com/alfredmuffin/Beginner-Projects#whats-the-weather)
 
