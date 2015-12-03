@@ -4,13 +4,11 @@ A list of Python projects for beginners.
 
 If you're completely new to programming in Python, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run Python programs on your machine. 
 
-Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. The overall intent for this repository is to serve as a learning resource and to help transition learners from a beginning level to an intermediate level.
+Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. The overall intent for this repository is to serve as a learning resource for everyone and to help transition learners from a beginning level to an intermediate level.
 
 Remember, if you don't know how to do something, Google is your friend.
 
-Everyone is encouraged to fork this repo to use in any way they want
-
-And if you are completely stuck, don't quit! Just
+If you are completely stuck, just
   ```
    $ import antigravity
   ```
@@ -32,7 +30,7 @@ Some ways to contribute are:
 - Editing the README
 
 ## Project List
-(projects are ordered by difficulty)
+(projects are ordered by increasing difficulty)
 
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
