@@ -1,5 +1,6 @@
 Beginner Projects
 =================
+If you're new to coding in Python, check out some of the ideas for basic projects on this subreddit. Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. Before beginning, you should know the basics to Python such as variables, loops, dictionaries, and how to define functions. Remember, if you don't know how to do something, Google is your friend. The overall intent for these projects is to transition you from a beginning level to an intermediate level.
 
 ## Table of Contents 
 - [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
@@ -20,7 +21,7 @@ Some ways to contribute are:
 ## Project List
 (projects are ordered by difficulty)
 
-The linked solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All solutions are written in Python 3, but can be done in just about any language.
+The linked solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All projects are intended to be completed in Python, but most can be done in any language. All solutions are written in Python 3.
 
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
