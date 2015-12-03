@@ -1,8 +1,27 @@
 Beginner Projects
 =================
-Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing)
 
 ## Table of Contents 
+- [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
+- [Project List](https://github.com/alfredmuffin/Beginner-Projects#project-list)
+- [Credits](https://github.com/alfredmuffin/Beginner-Projects#credits)
+
+## Contributing
+
+Contributions to this repository in any way are encouraged.
+
+Some ways to contribute are:
+- Adding solutions to 
+- Writing better solutions to existing projects
+- Adding solutions in different languages to existing projects
+- Creating or adding new projects to the project list
+- Editing the README
+
+## Project List
+(projects are ordered by difficulty)
+
+The linked solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All solutions are written in Python 3, but can be done in just about any language.
+
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
 - [Pythagorean Triples Checker](https://github.com/alfredmuffin/Beginner-Projects#pythagorean-triples-checker)
@@ -27,17 +46,14 @@ Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQI
 - [Random Wikipedia Article](https://github.com/alfredmuffin/Beginner-Projects#random-wikipedia-article)
 - [What's the Weather?](https://github.com/alfredmuffin/Beginner-Projects#whats-the-weather)
 
-
-Beginner Projects
------------------
-(projects are ordered from easiest to hardest)
-
 ##### 99 Bottles
+[solution](Beginner-Projects/Project Solutions/bottles.py)
 - Create a program that prints out every line to the song "99 bottles of beer on the wall."
 - Do not use a list for all of the numbers, and do not manually type them all in. Use a built in function instead.
 - Besides the phrase "take one down," you may not type in any numbers/names of numbers directly into your song lyrics.
 - Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
 - Put a blank line between each verse of the song.
+
 
 ##### Magic 8 Ball
 - Simulate a magic 8-ball.
@@ -278,3 +294,8 @@ If you would like to know the basics of what an API is, check out [this](http://
 - Tips:
   - APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
+
+
+## Credits
+
+Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing) and initally found on [reddit.com/r/beginnerprojects](https://reddit.com/r/beginnerprojects]
