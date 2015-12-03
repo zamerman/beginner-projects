@@ -8,6 +8,8 @@ Each project idea has a basic goal for you to achieve, as well as subgoals that 
 
 Remember, if you don't know how to do something, Google is your friend.
 
+Everyone is encouraged to fork this repo and use it for.
+
 ## Table of Contents 
 - [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
 - [Project List](https://github.com/alfredmuffin/Beginner-Projects#project-list)
@@ -302,16 +304,16 @@ If you would like to know the basics of what an API is, check out [this](http://
 ## Solutions
 Thes solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All projects are intended to be completed in Python, but most can be done in any language. All solutions are written in Python 3.
 
-- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/bottles.py)
-- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/magic.py)
+- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/bottles.py)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/magic.py)
 - [Pythagorean Triples Checker](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/triples.py)
-- [Coin Estimator By Weight](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/coins.py)
+- [Coin Estimator By Weight](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/coins.py)
 - [Mad Libs Story Makes](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/libs.py)
-- [Change Calculator](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/change.py)
+- [Change Calculator](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/change.py)
 - [Mean, Median, and Mode](https://github.com/alfredmuffin/Beginner-Projects#mean-median-and-mode)
 - [Higher Lower Guessing Game](https://github.com/alfredmuffin/Beginner-Projects#higher-lower-guessing-game)
 - [Multiplication Table](https://github.com/alfredmuffin/Beginner-Projects#multiplication-table)
-- [Fibonacci Sequence](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/fib.py)
+- [Fibonacci Sequence](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/fib.py)
 - [Hangman Game](https://github.com/alfredmuffin/Beginner-Projects#hangman-game)
 - [Menu Calculator](https://github.com/alfredmuffin/Beginner-Projects#menu-calculator)
 - [Dice Rolling Simulator](https://github.com/alfredmuffin/Beginner-Projects#dice-rolling-simulator)
