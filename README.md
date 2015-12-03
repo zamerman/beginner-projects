@@ -8,9 +8,10 @@ Each project idea has a basic goal for you to achieve, as well as subgoals that 
 
 Remember, if you don't know how to do something, Google is your friend.
 
-If you are completely stuck, just
+If you are completely stuck:
   ```
-   import antigravity
+   $ python3
+   >>> import antigravity
   ```
   
 ## Table of Contents 
