@@ -298,4 +298,4 @@ If you would like to know the basics of what an API is, check out [this](http://
 
 ## Credits
 
-Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing) and initally found on [reddit.com/r/beginnerprojects](https://reddit.com/r/beginnerprojects]
+Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing) and initally found on [reddit.com/r/beginnerprojects](https://reddit.com/r/beginnerprojects)
