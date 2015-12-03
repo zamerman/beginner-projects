@@ -1,6 +1,12 @@
 Beginner Projects
 =================
-If you're new to coding in Python, check out some of the ideas for basic projects on this subreddit. Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. Before beginning, you should know the basics to Python such as variables, loops, dictionaries, and how to define functions. Remember, if you don't know how to do something, Google is your friend. The overall intent for these projects is to transition you from a beginning level to an intermediate level.
+A list of Python projects for beginners.
+
+If you're completely new to programming in Python, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run Python programs on your machine. 
+
+Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. The overall intent for these projects is to transition you from a beginning level to an intermediate level.
+
+Remember, if you don't know how to do something, Google is your friend.
 
 ## Table of Contents 
 - [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
@@ -9,7 +15,6 @@ If you're new to coding in Python, check out some of the ideas for basic project
 - [Credits](https://github.com/alfredmuffin/Beginner-Projects#credits)
 
 ## Contributing
-
 Contributions to this repository in any way are encouraged.
 
 Some ways to contribute are:
@@ -297,16 +302,16 @@ If you would like to know the basics of what an API is, check out [this](http://
 ## Solutions
 Thes solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All projects are intended to be completed in Python, but most can be done in any language. All solutions are written in Python 3.
 
-- [99 Bottles](Beginner-Projects/Project Solutions/bottles.py)
-- [Magic 8 Ball](Beginner-Projects/Project Solutions/magic.py)
-- [Pythagorean Triples Checker](Beginner-Projects/Project Solutions/triples.py)
-- [Coin Estimator By Weight](Beginner-Projects/Project Solutions/coins.py)
-- [Mad Libs Story Makes](Beginner-Projects/Project Solutions/libs.py)
-- [Change Calculator](Beginner-Projects/Project Solutions/change.py)
+- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/bottles.py)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/magic.py)
+- [Pythagorean Triples Checker](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/triples.py)
+- [Coin Estimator By Weight](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/coins.py)
+- [Mad Libs Story Makes](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/libs.py)
+- [Change Calculator](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/change.py)
 - [Mean, Median, and Mode](https://github.com/alfredmuffin/Beginner-Projects#mean-median-and-mode)
 - [Higher Lower Guessing Game](https://github.com/alfredmuffin/Beginner-Projects#higher-lower-guessing-game)
 - [Multiplication Table](https://github.com/alfredmuffin/Beginner-Projects#multiplication-table)
-- [Fibonacci Sequence](Beginner-Projects/Project Solutions/fib.py)
+- [Fibonacci Sequence](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/fib.py)
 - [Hangman Game](https://github.com/alfredmuffin/Beginner-Projects#hangman-game)
 - [Menu Calculator](https://github.com/alfredmuffin/Beginner-Projects#menu-calculator)
 - [Dice Rolling Simulator](https://github.com/alfredmuffin/Beginner-Projects#dice-rolling-simulator)
@@ -323,5 +328,6 @@ Thes solutions are by no means the only (or ideal) way to complete any of these 
 
 
 ## Credits
+Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing) and originally found on [reddit](https://reddit.com/r/beginnerprojects)
 
-Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing) and initally found on [reddit.com/r/beginnerprojects](https://reddit.com/r/beginnerprojects)
+Inspired by [Projects](https://github.com/karan/Projects)
