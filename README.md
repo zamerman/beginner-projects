@@ -5,6 +5,7 @@ If you're new to coding in Python, check out some of the ideas for basic project
 ## Table of Contents 
 - [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
 - [Project List](https://github.com/alfredmuffin/Beginner-Projects#project-list)
+- [Solutions](https://github.com/alfredmuffin/Beginner-Projects#solutions)
 - [Credits](https://github.com/alfredmuffin/Beginner-Projects#credits)
 
 ## Contributing
@@ -20,8 +21,6 @@ Some ways to contribute are:
 
 ## Project List
 (projects are ordered by difficulty)
-
-The linked solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All projects are intended to be completed in Python, but most can be done in any language. All solutions are written in Python 3.
 
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
@@ -48,7 +47,6 @@ The linked solutions are by no means the only (or ideal) way to complete any of 
 - [What's the Weather?](https://github.com/alfredmuffin/Beginner-Projects#whats-the-weather)
 
 ##### 99 Bottles
-[solution](Beginner-Projects/Project Solutions/bottles.py)
 - Create a program that prints out every line to the song "99 bottles of beer on the wall."
 - Do not use a list for all of the numbers, and do not manually type them all in. Use a built in function instead.
 - Besides the phrase "take one down," you may not type in any numbers/names of numbers directly into your song lyrics.
@@ -295,6 +293,33 @@ If you would like to know the basics of what an API is, check out [this](http://
 - Tips:
   - APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
+
+## Solutions
+Thes solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All projects are intended to be completed in Python, but most can be done in any language. All solutions are written in Python 3.
+
+- [99 Bottles](Beginner-Projects/Project Solutions/bottles.py)
+- [Magic 8 Ball](Beginner-Projects/Project Solutions/magic.py)
+- [Pythagorean Triples Checker](Beginner-Projects/Project Solutions/triples.py)
+- [Coin Estimator By Weight](Beginner-Projects/Project Solutions/coins.py)
+- [Mad Libs Story Makes](Beginner-Projects/Project Solutions/libs.py)
+- [Change Calculator](Beginner-Projects/Project Solutions/change.py)
+- [Mean, Median, and Mode](https://github.com/alfredmuffin/Beginner-Projects#mean-median-and-mode)
+- [Higher Lower Guessing Game](https://github.com/alfredmuffin/Beginner-Projects#higher-lower-guessing-game)
+- [Multiplication Table](https://github.com/alfredmuffin/Beginner-Projects#multiplication-table)
+- [Fibonacci Sequence](Beginner-Projects/Project Solutions/fib.py)
+- [Hangman Game](https://github.com/alfredmuffin/Beginner-Projects#hangman-game)
+- [Menu Calculator](https://github.com/alfredmuffin/Beginner-Projects#menu-calculator)
+- [Dice Rolling Simulator](https://github.com/alfredmuffin/Beginner-Projects#dice-rolling-simulator)
+- [Count and Fix Green Eggs and Ham](https://github.com/alfredmuffin/Beginner-Projects#count-and-fix-green-eggs-and-ham)
+- [What's My Number?](https://github.com/alfredmuffin/Beginner-Projects#whats-my-number)
+- [Factors of a Number](https://github.com/alfredmuffin/Beginner-Projects#factors-of-a-number)
+- [Countdown Clock](https://github.com/alfredmuffin/Beginner-Projects#countdown-clock)
+- [Turn Based Pokemon Style Game](https://github.com/alfredmuffin/Beginner-Projects#turn-based-pokemon-style-game)
+- [A Variation of 21](https://github.com/alfredmuffin/Beginner-Projects#a-variation-of-21)
+- [Compare Recent reddit Karma](https://github.com/alfredmuffin/Beginner-Projects#compare-recent-reddit-karma)
+- [Watch for New TIL Facts](https://github.com/alfredmuffin/Beginner-Projects#watch-for-new-til-facts)
+- [Random Wikipedia Article](https://github.com/alfredmuffin/Beginner-Projects#random-wikipedia-article)
+- [What's the Weather?](https://github.com/alfredmuffin/Beginner-Projects#whats-the-weather)
 
 
 ## Credits
