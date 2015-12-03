@@ -10,7 +10,7 @@ Remember, if you don't know how to do something, Google is your friend.
 
 If you are completely stuck, just
   ```
-   $ import antigravity
+   import antigravity
   ```
   
 ## Table of Contents 
