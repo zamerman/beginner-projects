@@ -2,13 +2,13 @@ Beginner Projects
 =================
 A list of Python projects for beginners.
 
-If you're completely new to programming in Python, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run Python programs on your machine. 
+If you're completely new to programming in Python, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run Python programs on your machine.
 
 Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. The overall intent for these projects is to transition you from a beginning level to an intermediate level.
 
 Remember, if you don't know how to do something, Google is your friend.
 
-## Table of Contents 
+## Table of Contents
 - [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
 - [Project List](https://github.com/alfredmuffin/Beginner-Projects#project-list)
 - [Solutions](https://github.com/alfredmuffin/Beginner-Projects#solutions)
@@ -18,7 +18,7 @@ Remember, if you don't know how to do something, Google is your friend.
 Contributions to this repository in any way are encouraged.
 
 Some ways to contribute are:
-- Adding solutions to 
+- Adding solutions to
 - Writing better solutions to existing projects
 - Adding solutions in different languages to existing projects
 - Creating or adding new projects to the project list
@@ -56,7 +56,6 @@ Some ways to contribute are:
 - Do not use a list for all of the numbers, and do not manually type them all in. Use a built in function instead.
 - Besides the phrase "take one down," you may not type in any numbers/names of numbers directly into your song lyrics.
 - Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
-- Put a blank line between each verse of the song.
 
 
 ##### Magic 8 Ball
@@ -68,7 +67,7 @@ Some ways to contribute are:
 - Bonus:
   - Add a gui.
   - It must have box for users to enter the question.
-  - It must have at least 4 buttons: 
+  - It must have at least 4 buttons:
     - ask
     - clear (the text box)
     - play again
@@ -92,7 +91,7 @@ Here is the [weight of each coin](https://en.wikipedia.org/wiki/Coins_of_the_Uni
   - Allow the user to select whether they want to submit the weight in either grams or pounds.
 
 ##### Mad Libs Story Maker
-- Create a Mad Libs style game, where the program asks the user for certain types of words, and then prints out a story with the words that the user inputted. 
+- Create a Mad Libs style game, where the program asks the user for certain types of words, and then prints out a story with the words that the user inputted.
 - The story doesn't have to be too long, but it should have some sort of story line.
 - Tip: it's easiest to write out a quick story on a piece of paper or a word document, and then go back through and see which words the user should be able to change.
 - Subgoals:
@@ -100,7 +99,7 @@ Here is the [weight of each coin](https://en.wikipedia.org/wiki/Coins_of_the_Uni
   - Change the word "a" to "an" when the next word in the sentence begins with a vowel.
 
 ##### Change Calculator
-- Imagine that your friend is a cashier, but has a hard time counting back change to customers. 
+- Imagine that your friend is a cashier, but has a hard time counting back change to customers.
 - Create a program that allows him to input a certain amount of change, and then print how how many quarters, dimes, nickels, and pennies are needed to make up the amount needed.
 Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dimes, 0 nickels, and 2 pennies.
 - Subgoals:
@@ -116,8 +115,8 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - If there are multiple modes, return all of them.
 
 ##### Higher Lower Guessing Game
-- Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is. 
-- After every guess, the computer should tell the user if the guess is higher or lower than the answer. 
+- Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is.
+- After every guess, the computer should tell the user if the guess is higher or lower than the answer.
 - When the user guesses the correct number, print out a congratulatory message.
 - Subgoals:
   - Add an introductory message that explains to the user how to play your game.
@@ -125,7 +124,7 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
 
 ##### Multiplication Table
-- Create a program that prints out a multiplication table for the numbers 1 through 9. 
+- Create a program that prints out a multiplication table for the numbers 1 through 9.
 - It should include the numbers 1 through 9 on the top and left axises, and it should be relatively easy to find the product of two numbers. Do not simply write out every line manually (ie print('7 14 21 28 35 49 56 63') ).
 - Subgoals:
   - As your products get larger, your columns will start to get crooked from the number of characters on each line. Clean up your table by evenly spacing columns so it is very easy to find the product of two numbers.
@@ -133,12 +132,12 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
 
 ##### Fibonacci Sequence
 If you do not know about the Fibonacci Sequence, read about it [here](https://en.wikipedia.org/wiki/Fibonacci_number).
-- Define a function that allows the user to find the value of the nth term in the sequence. 
-- To make sure you've written your function correctly, test the first 10 numbers of the sequence. 
+- Define a function that allows the user to find the value of the nth term in the sequence.
+- To make sure you've written your function correctly, test the first 10 numbers of the sequence.
 - You can assume either that the first two terms are 0 and 1 or that they are both 1.
 
 ##### Hangman Game
-- Create a program that selects a random word and then allows the user to guess it in a game of hangman. 
+- Create a program that selects a random word and then allows the user to guess it in a game of hangman.
 - Like the real game, there should be blank spots for each letter in the word, and a part of the body should be added each time the user guesses a letter than is not in the answer.
 - You may choose how many wrong turns the user can make until the game ends.
 - Subgoals:
@@ -160,21 +159,21 @@ Imagine you have started up a small restaurant and are trying to make it easier 
 To quickly take orders, your program should allow the user to type in a string of numbers and then it should calculate the cost of the order. For example, if one large drink, two small drinks, two hamburgers, one hotdog, and a salad are ordered, the user should type in 5993348, and the program should say that it costs $19.50. Also, make sure that the program loops so the user can take multiple orders without having to restart the program each time.
 - Subgoals:
   - If you decide to, print out the items and prices every time before the user types in an order.
-  - Once the user has entered an order, print out how many of each item have been ordered, as well as the total price. 
+  - Once the user has entered an order, print out how many of each item have been ordered, as well as the total price.
   - If an item was not ordered at all, then it should not show up.
 
 ##### Dice Rolling Simulator
-By using the random module, Python can do things like pseudo-random number generation. 
-- Allow the user to input the amount of sides on a dice and how many times it should be rolled. 
-- Your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed). 
+By using the random module, Python can do things like pseudo-random number generation.
+- Allow the user to input the amount of sides on a dice and how many times it should be rolled.
+- Your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed).
 - Finally, print out how many times each number came up.
 - Subgoals:
   - Adjust your program so that if the user does not type in a number when they need to, the program will keep prompting them to type in a real number until they do so.
   - Put the program into a loop so that the user can continue to simulate dice rolls without having to restart the entire program.
   - In addition to printing out how many times each side appeared, also print out the percentage it appeared. If you can, round the percentage to 4 digits total OR two decimal places.
 - Bonus:
-  - You are about to play a board game, but you realize you don't have any dice. Fortunately you have this program. 
-  - 1. Create a program that opens a new window and draws 2 six-sided dice 
+  - You are about to play a board game, but you realize you don't have any dice. Fortunately you have this program.
+  - 1. Create a program that opens a new window and draws 2 six-sided dice
   - 2. Allow the user to quit, or roll again
   - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
 
@@ -199,8 +198,8 @@ Between 1 and 1000, there is only 1 number that meets the following criteria:
 To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
 
 ##### Factors of a Number
-- Define a function that creates a list of all the numbers that are factors of the user's number. 
-- For example, if the function is called factor, factor(36) should return [1,2,3,4,6,9,12,18,36]. 
+- Define a function that creates a list of all the numbers that are factors of the user's number.
+- For example, if the function is called factor, factor(36) should return [1,2,3,4,6,9,12,18,36].
 - The numbers in your list should be sorted from least to greatest, and 1 and the original number should be included.
 
 ##### Countdown Clock
@@ -211,7 +210,7 @@ To find out if you have the correct number, click [here](https://i.imgur.com/jbz
   - TIP: Making use of built in modules such as time and datetime can change this project from a nightmare into a much simpler task.
 
 ##### Turn Based Pokemon Style Game
-- Write a simple game that allows the user and the computer to take turns selecting moves to use against each other. 
+- Write a simple game that allows the user and the computer to take turns selecting moves to use against each other.
 - Both the computer and the player should start out at the same amount of health (such as 100), and should be able to choose between the three moves:
   - The first move should do moderate damage and has a small range (such as 18-25).
   - The second move should have a large range of damage and can deal high or low damage (such as 10-35).
@@ -227,10 +226,10 @@ If you do not know how 21 (AKA Blackjack) is played, reading the first couple of
 
 In this project, you will make a game similar to Blackjack. In this version:
 - There is only one player.
-- There are two types of scores: the game score and the round score. 
+- There are two types of scores: the game score and the round score.
 - The game score will begin at 100, and the game will last for five rounds.
-- At the beginning of the round, the player is given two random cards from a deck and they will be added together to make the player's round score. 
-- From here, the player has two options - draw another card to try to get their round score closer to 21, or they can end the round. 
+- At the beginning of the round, the player is given two random cards from a deck and they will be added together to make the player's round score.
+- From here, the player has two options - draw another card to try to get their round score closer to 21, or they can end the round.
 - The player can draw as many cards as they want until they end the round or their round score exceeds 21.
 - At the end of the round, the difference between 21 and the round score is subtracted from the game score, and then the next round begins. After the five rounds, the player is given their total score and the game is over.
 ---Other Information About The Game---
@@ -248,7 +247,7 @@ In this project, you will make a game similar to Blackjack. In this version:
 ##### Compare Recent reddit Karma
 Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1]. At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
 - Create a program that gets information about two different users, and then sees whose most recent post received the most karma.
-- The program should then print out which user received more karma, and what the difference was. 
+- The program should then print out which user received more karma, and what the difference was.
 - This is a pretty open project, so I encourage you to take it further by adding more features if you find it interesting.
 - Remember - Elements in a list are referenced by their index numbers while entries in a dictionary are referenced by their keys.
 - Subgoals:
@@ -260,7 +259,7 @@ Since we're all redditors here, let's make something dealing with reddit. If you
 
 ##### Watch for new TIL facts
 If you finished the previous [project](https://github.com/alfredmuffin/Beginner-Projects#compare-recent-reddit-karma) which compared the karma of two new comments, hopefully you learned a thing or two about receiving data from Reddit's API. Now you're going to take this a step further, and even have the opportunity to make a basic twitter bot.
-- Create a program that receives data from the [/r/todayilearned](https://reddit.com/r/todayilearned) subreddit, and looks for new facts that have been posted. 
+- Create a program that receives data from the [/r/todayilearned](https://reddit.com/r/todayilearned) subreddit, and looks for new facts that have been posted.
 - Each time the program comes across a new fact, the fact should be printed into the command line. However, phrases like "TIL ", "TIL that", etc should be removed so the only thing that is printed is the fact.
 
 [New TIL API data here](https://www.reddit.com/r/todayilearned/new/.json)
@@ -271,14 +270,14 @@ There is actually a lot you can do once your program starts receiving facts. Ins
 - Print the link to the source of the fact too.
 - Try to further clean up the fact by adding punctuation to the end if it is missing, capitalize the first word, etc.
 - Write the facts to a separate text file so you end up with a giant compilation of random facts.
-- Create a bot that posts the facts to twitter. This may sound hard, but it's actually pretty simple by using the [Python Twitter Tools](https://pypi.python.org/pypi/twitter) module and following the guide posted [here](https://wilsonericn.wordpress.com/2011/08/22/tweeting-in-python-the-easy-way/). 
+- Create a bot that posts the facts to twitter. This may sound hard, but it's actually pretty simple by using the [Python Twitter Tools](https://pypi.python.org/pypi/twitter) module and following the guide posted [here](https://wilsonericn.wordpress.com/2011/08/22/tweeting-in-python-the-easy-way/).
 - Remember, the maximum amount of characters you can use in a tweet is only 140, so you'll have to filter out facts that are longer than that.
 - By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
 
 ##### Random Wikipedia Article
 If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so [Click here](https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=10&format=json).
 However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter [Erasto Cortés Juárez](https://en.wikipedia.org/wiki/Erasto_Cort%C3%A9s_Ju%C3%A1rez) has é and á in it. If you look at this specific article's [API](https://en.wikipedia.org/w/api.php?action=query&prop=info&pageids=39608394&inprop=url&format=json), you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of [this page](https://docs.python.org/2/howto/unicode.html) in the documentation). To make your program work, you're going to have to handle this problem somehow.
-- Create a program that pulls titles from the official Wikipedia API and then asks the user one by one if he or she would like to read about that article. 
+- Create a program that pulls titles from the official Wikipedia API and then asks the user one by one if he or she would like to read about that article.
 - Example:
   - If the first title is Reddit, then the program should ask something along the lines of "Would you like to read about Reddit?" If the user says yes, then the program should open up the article for the user to read.
   - HINT: Click [here](https://en.wikipedia.org/wiki?curid=39608394) to see how the article's ID can be used to access the actual article.
@@ -290,7 +289,7 @@ However, there is a dilemma. Since Wikipedia has articles about topics from all 
 
 ##### What’s the Weather?
 If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
-- Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live. 
+- Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live.
 - Subgoals:
   - Print out data for the next 5-7 days so you have a 5 day/week long forecast.
   - Print the data to another file that you can open up and view at, instead of viewing the information in the command line.
