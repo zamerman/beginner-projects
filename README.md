@@ -38,7 +38,7 @@ Some ways to contribute are:
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
 - [Pythagorean Triples Checker](https://github.com/alfredmuffin/Beginner-Projects#pythagorean-triples-checker)
 - [Coin Estimator By Weight](https://github.com/alfredmuffin/Beginner-Projects#coin-estimator-by-weight)
-- [Mad Libs Story Makes](https://github.com/alfredmuffin/Beginner-Projects#mad-libs-story-maker)
+- [Mad Libs Story Maker](https://github.com/alfredmuffin/Beginner-Projects#mad-libs-story-maker)
 - [Change Calculator](https://github.com/alfredmuffin/Beginner-Projects#change-calculator)
 - [Mean, Median, and Mode](https://github.com/alfredmuffin/Beginner-Projects#mean-median-and-mode)
 - [Higher Lower Guessing Game](https://github.com/alfredmuffin/Beginner-Projects#higher-lower-guessing-game)
