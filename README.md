@@ -4,9 +4,17 @@ A list of Python projects for beginners.
 
 If you're completely new to programming in Python, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run Python programs on your machine.
 
-Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. The overall intent for these projects is to transition you from a beginning level to an intermediate level.
+Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. The overall intent for this repository is to serve as a learning resource for everyone and to help transition learners from a beginning level to an intermediate level.
 
 Remember, if you don't know how to do something, Google is your friend.
+
+## Table of Contents
+=======
+If you are completely stuck:
+  ```
+   $ python3
+   >>> import antigravity
+  ```
 
 ## Table of Contents
 - [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
@@ -18,14 +26,13 @@ Remember, if you don't know how to do something, Google is your friend.
 Contributions to this repository in any way are encouraged.
 
 Some ways to contribute are:
-- Adding solutions to
-- Writing better solutions to existing projects
+- Writing new and editing existing solutions
 - Adding solutions in different languages to existing projects
 - Creating or adding new projects to the project list
 - Editing the README
 
 ## Project List
-(projects are ordered by difficulty)
+(projects are ordered by increasing difficulty)
 
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects#99-bottles)
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects#magic-8-ball)
@@ -301,16 +308,16 @@ If you would like to know the basics of what an API is, check out [this](http://
 ## Solutions
 Thes solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All projects are intended to be completed in Python, but most can be done in any language. All solutions are written in Python 3.
 
-- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/bottles.py)
-- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/magic.py)
+- [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/bottles.py)
+- [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/magic.py)
 - [Pythagorean Triples Checker](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/triples.py)
-- [Coin Estimator By Weight](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/coins.py)
+- [Coin Estimator By Weight](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/coins.py)
 - [Mad Libs Story Makes](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/libs.py)
-- [Change Calculator](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/change.py)
+- [Change Calculator](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/change.py)
 - [Mean, Median, and Mode](https://github.com/alfredmuffin/Beginner-Projects#mean-median-and-mode)
 - [Higher Lower Guessing Game](https://github.com/alfredmuffin/Beginner-Projects#higher-lower-guessing-game)
 - [Multiplication Table](https://github.com/alfredmuffin/Beginner-Projects#multiplication-table)
-- [Fibonacci Sequence](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/fib.py)
+- [Fibonacci Sequence](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/fib.py)
 - [Hangman Game](https://github.com/alfredmuffin/Beginner-Projects#hangman-game)
 - [Menu Calculator](https://github.com/alfredmuffin/Beginner-Projects#menu-calculator)
 - [Dice Rolling Simulator](https://github.com/alfredmuffin/Beginner-Projects#dice-rolling-simulator)
