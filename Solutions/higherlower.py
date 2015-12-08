@@ -1,6 +1,7 @@
 import random
 choice = 'yes'
-
+print("Welcome")
+print("Try to guess the number")
 def game():
     guesses = 0
     # assigns a random number 
