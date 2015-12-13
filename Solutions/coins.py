@@ -1,4 +1,4 @@
-# 99 Bottles
+# Coin Estimator by Weight
 # Python 3.5.1
 # Written by alfredmuffin
 

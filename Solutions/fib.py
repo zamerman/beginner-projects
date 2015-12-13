@@ -1,4 +1,4 @@
-# 99 Bottles
+# Fibbonacci Sequence
 # Python 3.5.1
 # Written by alfredmuffin
 

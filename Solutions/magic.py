@@ -1,4 +1,4 @@
-# 99 Bottles
+# Magic 8-Ball
 # Python 3.5.1
 # Written by alfredmuffin
 

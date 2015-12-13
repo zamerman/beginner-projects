@@ -1,4 +1,4 @@
-# 99 Bottles
+# Pythagorean Triples Checker
 # Python 3.5.1
 # Written by alfredmuffin
 
