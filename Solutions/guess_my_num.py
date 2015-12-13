@@ -1,4 +1,6 @@
-#Written in python 2.7.10
+# Higher Lower Guessing Game
+# Python 2.7.10
+# Written by Oddjob922
 
 import random
 import time
