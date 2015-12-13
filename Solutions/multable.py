@@ -1,4 +1,4 @@
-# Higher Lower Guessing Game
+# Multiplication Table
 # Python 3.5.10
 # Written by rsz
 
