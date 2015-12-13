@@ -322,7 +322,7 @@ These solutions are by no means the only (or ideal) way to complete any of these
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/magic.py)
 - [Pythagorean Triples Checker](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/triples.py)
 - [Coin Estimator By Weight](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/coins.py)
-- [Mad Libs Story Makes](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/libs.py)
+- [Mad Libs Story Maker](https://github.com/alfredmuffin/Beginner-Projects/Project Solutions/libs.py)
 - [Change Calculator](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/change.py)
 - [Mean, Median, and Mode](https://github.com/alfredmuffin/Beginner-Projects#mean-median-and-mode)
 - [Higher Lower Guessing Game](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/higherlower.py)
