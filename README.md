@@ -9,10 +9,10 @@ Each project idea has a basic goal for you to achieve, as well as subgoals that 
 Remember, if you don't know how to do something, Google is your friend.
 
 If you are completely stuck:
-  ```
-   $ python3
-   >>> import antigravity
-  ```
+```
+$ python3
+>>> import antigravity
+```
 
 ## Table of Contents
 - [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
@@ -32,9 +32,9 @@ Some ways to contribute are:
 #### Project Solution Header
 Please include the following header in all solution contributions:
 ```
-   # [project title]
-   # Written in [name and version of language used]
-   # Written by [github username]
+# [project title]
+# [name and version of language used]
+# Written by [github username]
 ```
 
 ## Project List
