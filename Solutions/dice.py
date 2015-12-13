@@ -1,6 +1,11 @@
-print "Welcome to Toz's dice rolling simulator!\n"
+# Dice Rolling Simulator
+# Python 2.7.10
+# Written by Oddjob922
+
 import time
 import random
+print "Welcome to Toz's dice rolling simulator!\n"
+
 def goagain():
 	print "Would you like to roll again? [Y/N]\n"
 	againchoice = raw_input("> ")
@@ -11,12 +16,16 @@ def goagain():
 	else:
 		print "That is not a valid choice!\n"
 		goagain()
+
+
 def roller1():
 	print "\nRolling....."
 	time.sleep(2)
 	print "\nYour number is:\n\n%r\n" % (random.randrange(1, 7))
 	time.sleep(1)
 	goagain()
+
+
 def roller2():
 	print "\nRolling....."
 	time.sleep(2)
@@ -25,6 +34,8 @@ def roller2():
 	print "\nYour second number is:\n\n%r\n" % (random.randrange(1, 7))
 	time.sleep(1)
 	goagain()
+
+
 def start():
 	print "Enter the number of the choice you wish to select:"
 	print "\n1) Single die"
@@ -37,6 +48,7 @@ def start():
 	else:
 		print "That is not a valid choice!\n"
 		start()
+
 start()	
 	
 	
