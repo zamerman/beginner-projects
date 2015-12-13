@@ -1,3 +1,7 @@
+# Higher Lower Guessing Game
+# Python 3.5.1
+# Written by rsz
+
 import random
 choice = 'yes'
 print("Welcome")
