@@ -1,3 +1,7 @@
+# Higher Lower Guessing Game
+# Python 3.5.10
+# Written by rsz
+
 def multiply(lhs):
     for i in range(1,9):
         print(lhs, " x ", i, " = " ,lhs * i)
