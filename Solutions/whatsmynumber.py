@@ -1,4 +1,4 @@
-# Higher Lower Guessing Game
+# What's My Number?
 # Python 3.5.10
 # Written by rsz
 
