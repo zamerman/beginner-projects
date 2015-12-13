@@ -1,3 +1,7 @@
+# 99 Bottles
+# Python 3.5.1
+# Written by alfredmuffin
+
 from time import sleep
 from random import randint
 

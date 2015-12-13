@@ -1,3 +1,7 @@
+# 99 Bottles
+# Python 3.5.1
+# Written by alfredmuffin
+
 count = [i for i in range(1, 100)]
 count = count[::-1]
 

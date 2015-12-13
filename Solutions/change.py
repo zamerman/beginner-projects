@@ -1,3 +1,7 @@
+# 99 Bottles
+# Python 3.5.1
+# Written by alfredmuffin
+
 # dollar values per type of coin
 pennyValue = 0.01
 nickelValue = 0.05
@@ -5,6 +9,7 @@ dimeValue = 0.1
 quarterValue = 0.25
 
 continue = True
+
 # request input
 while continue:
     print("Welcome to the change calculator!")

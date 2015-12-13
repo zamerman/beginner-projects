@@ -1,3 +1,7 @@
+# 99 Bottles
+# Python 3.5.1
+# Written by alfredmuffin
+
 while True:
     side_1 = int(input("Enter a side: ")) ** 2
     side_2 = int(input("Enter another side: ")) ** 2

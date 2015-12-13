@@ -1,3 +1,7 @@
+# 99 Bottles
+# Python 3.5.1
+# Written by alfredmuffin
+
 def coin_amount(total_mass, coin_mass):
     # calculates the total amount of one type of coin
     coinAmount = total_mass / coin_mass
