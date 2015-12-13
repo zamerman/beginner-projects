@@ -1,3 +1,7 @@
+# Higher Lower Guessing Game
+# Python 3.5.10
+# Written by rsz
+
 number = ''
 k = ''
 
