@@ -8,8 +8,6 @@ Each project idea has a basic goal for you to achieve, as well as subgoals that 
 
 Remember, if you don't know how to do something, Google is your friend.
 
-## Table of Contents
-=======
 If you are completely stuck:
   ```
    $ python3
@@ -23,13 +21,21 @@ If you are completely stuck:
 - [Credits](https://github.com/alfredmuffin/Beginner-Projects#credits)
 
 ## Contributing
-Contributions to this repository in any way are encouraged.
+Contributing to this repository in any way is encouraged.
 
 Some ways to contribute are:
 - Writing new and editing existing solutions
 - Adding solutions in different languages to existing projects
 - Creating or adding new projects to the project list
 - Editing the README
+
+#### Project Solution Header
+Please include the following header in all solution contributions:
+```
+   # [project title]
+   # Written in [name and version of language used]
+   # Written by [github username]
+```
 
 ## Project List
 (projects are ordered by increasing difficulty)
@@ -306,7 +312,7 @@ If you would like to know the basics of what an API is, check out [this](http://
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
 
 ## Solutions
-Thes solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All projects are intended to be completed in Python, but most can be done in any language. All solutions are written in Python 3.
+These solutions are by no means the only (or ideal) way to complete any of these projects. They are there to serve as samples that meet at least the minimum necessary criteria to be deemed as complete. All projects are intended to be completed in Python 3, but most can be done in any language.
 
 - [99 Bottles](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/bottles.py)
 - [Magic 8 Ball](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/magic.py)
