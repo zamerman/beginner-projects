@@ -332,7 +332,7 @@ These solutions are by no means the only (or ideal) way to complete any of these
 - [Menu Calculator](https://github.com/alfredmuffin/Beginner-Projects#menu-calculator)
 - [Dice Rolling Simulator](https://github.com/alfredmuffin/Beginner-Projects#dice-rolling-simulator)
 - [Count and Fix Green Eggs and Ham](https://github.com/alfredmuffin/Beginner-Projects#count-and-fix-green-eggs-and-ham)
-- [What's My Number?](https://github.com/alfredmuffin/Beginner-Projects#whats-my-number)
+- [What's My Number?](https://github.com/alfredmuffin/Beginner-Projects/blob/master/Solutions/whatsmynumber.py)
 - [Factors of a Number](https://github.com/alfredmuffin/Beginner-Projects#factors-of-a-number)
 - [Countdown Clock](https://github.com/alfredmuffin/Beginner-Projects#countdown-clock)
 - [Turn Based Pokemon Style Game](https://github.com/alfredmuffin/Beginner-Projects#turn-based-pokemon-style-game)
