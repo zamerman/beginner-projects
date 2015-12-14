@@ -2,10 +2,11 @@
 # Python 3.5.1
 # Written by alfredmuffin
 
+
 def get_num():
     while True:
         try:
-           user_num = int(input("\nEnter a number: "))
+            user_num = int(input("\nEnter a number: "))
         except ValueError:
             print("That's not a number.\n")
             continue
