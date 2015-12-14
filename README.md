@@ -104,7 +104,7 @@ Here is the [weight of each coin](https://en.wikipedia.org/wiki/Coins_of_the_Uni
   - Allow the user to select whether they want to submit the weight in either grams or pounds.
 
 ##### Mad Libs Story Maker
-Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, here are the basics: 
+Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, here are the basics:
 
 "Mad Libs consist of a book that has a short story on each page with many key words replaced with blanks. Beneath each blank is specified a lexical or other category, such as "noun," "verb," "place," or "part of the body." One player asks the other players, in turn, to contribute some word for the specified type for each blank, but without revealing the context for that word. Finally, the completed story is read aloud. The result is usually comic, surreal and somewhat nonsensical."
 
@@ -216,8 +216,11 @@ To find out if you have the correct number, click [here](https://i.imgur.com/jbz
 
 ##### Factors of a Number
 - Define a function that creates a list of all the numbers that are factors of the user's number.
-- For example, if the function is called factor, factor(36) should return [1,2,3,4,6,9,12,18,36].
+- For example, if the function is called factor, factor(36) should return [1, 2, 3, 4, 6, 9, 12, 18, 36].
 - The numbers in your list should be sorted from least to greatest, and 1 and the original number should be included.
+- Remember to consider negative numbers as well as 0.
+- Bonus:
+  - Have the program print the factors of the users number in a comma separated string, without a comma after the last number, and without the brackets of a Python list.
 
 ##### Countdown Clock
 - Create a program that allows the user to choose a time and date, and then prints out a message at given intervals (such as every second) that tells the user how much longer there is until the selected time.]
