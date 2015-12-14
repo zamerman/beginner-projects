@@ -1,5 +1,7 @@
-#written in python 2.7.10
-#Created by Oddjob922
+# Turn Based Pokemon Style Game
+# Python 2.7.10
+# Written by Oddjob922
+
 import time, random, sys
 
 
