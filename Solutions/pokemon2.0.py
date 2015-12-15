@@ -87,7 +87,6 @@ def self_heal(p_health,c_health,whos_turn):
                 c_health = c_health + heal_amount
                 print 'Self-heal gave back %i HP the opponent!' % heal_amount
                 return c_health
-                pass
         
 
 
@@ -135,18 +134,20 @@ def game():
                 if c_health < 35:
                     c_lowhealth_chance = random.randint(1,2)
                     if c_lowhealth_chance == 2:
-                        self_heal(c_health,p_health,'Opponent')
+                        c_health = self_heal(c_health,p_health,'Opponent')
+                        whos_turn = 'Player'
+                        continue
                     else:
                         move = random.randint(1,3)
-                    if move == 1:
-                        p_health = scratch(p_health,c_health,'Opponent')
-                        whos_turn = 'Player'
-                    elif move == 2:
-                        p_health = stomp(p_health,c_health,'Opponent')
-                        whos_turn = 'Player'
-                    elif move == 3:
-                        c_health = self_heal(p_health,c_health,'Opponent')
-                        whos_turn = 'Player'
+                        if move == 1:
+                            p_health = scratch(p_health,c_health,'Opponent')
+                            whos_turn = 'Player'
+                        elif move == 2:
+                            p_health = stomp(p_health,c_health,'Opponent')
+                            whos_turn = 'Player'
+                        elif move == 3:
+                            c_health = self_heal(p_health,c_health,'Opponent')
+                            whos_turn = 'Player'
                         
                 else:
                     move = random.randint(1,3)
