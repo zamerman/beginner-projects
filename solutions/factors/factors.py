@@ -23,15 +23,13 @@ def factor(num):
     else:
         factor_list = []
         for item in range(1, abs(num) // 2 + 1):
-            # upper limit is 1 greater than abs(num) to account for
-            # negative integers
+            # upper limit is 1 greater than abs(num) to account for negative integers
             if num % item == 0:
                 factor_list.append(item)
         factor_list.append(abs(num))
 
         if num < 0:
-            # for negative intger input, the final factor list must include
-            # the negation of every number in the original list
+            # for negative intger input, the final factor list must include the negation of every number in the original list
             new_factor_list = list(factor_list)
             for item in factor_list:
                 new_factor_list.insert(0, item * -1)
@@ -47,8 +45,7 @@ def print_factors(num):
         return
 
     else:
-        # create empty string to print elements of list, separated by
-        # commas, and excluding the list brackets
+        # create empty string to print elements of list, separated by commas, and excluding the list brackets
         factor_string = ""
         factors = factor(num)
         for number in factors:
