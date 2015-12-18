@@ -24,7 +24,7 @@ def simulator():
         try:
             sides = int(input("\nNumber of sides: "))
             rolls = int(input("Number of rolls: "))
-        except:
+        except ValueError:
             print("That is not a number!\n")
         else:
             break
