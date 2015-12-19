@@ -2,8 +2,9 @@
 # Python 3.5.1
 # Written by alfredmuffin
 
-def fib(limit):
+def fib(n):
+    # returns nth term in fibonacci sequence
     x, y = 0, 1
-    for i in range(1, limit):
+    for i in range(1, n):
         x, y = y, x + y
     return x
