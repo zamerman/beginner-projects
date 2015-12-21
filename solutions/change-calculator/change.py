@@ -2,42 +2,70 @@
 # Python 3.5.1
 # Written by alfredmuffin
 
-# dollar values per type of coin
-pennyValue = 0.01
-nickelValue = 0.05
-dimeValue = 0.1
-quarterValue = 0.25
 
-continue_ = True
+def user_input():
+    # request input from user
+    while True:
+        try:
+            price = float(input("Price of item: $"))
+            money = float(input("Money given to you: $"))
+        except ValueError:
+            print("Invalid input: numbers only\n")
+        else:
+            # check if customer is paying less than item's price
+            if price > money:
+                print("\nMoney given is less than item's price.")
+                while True:
+                    try:
+                        money = float(input("Please pay a valid amount of money: $"))
+                    except ValueError:
+                        print("Invalid input: numbers only\n")
+                    else:
+                        break
+            break
 
-# request input
-while continue_:
-    print("Welcome to the change calculator!")
-
-    price = float(input("What is the price of the item? $"))
-    money = float(input("What is the amount of money given to you? $"))
-
-    # calculate total value of change needed
-    targetChange = money - price
-    print("Change needed is ${0}".format(targetChange))
-
-    quarters = int(targetChange / quarterValue)
-    targetChange -= quarters * quarterValue
-
-    dimes = int(targetChange / dimeValue)
-    targetChange -= dimes * dimeValue
-
-    nickels = int(targetChange / nickelValue)
-    targetChange -= nickels * nickelValue
-
-    pennies = int(targetChange / pennyValue)
-    targetChange -= pennies * pennyValue
-
-    print("\t{} quarters".format(quarters))
-    print("\t{} dimes".format(dimes))
-    print("\t{} nickels".format(nickels))
-    print("\t{} pennies\n".format(pennies))
-    continue_ = input("To go again press 0:")
+    return money - price
 
 
-print("Goodbye!")
+def change():
+    # dollar values per type of coin
+    pennyValue = 0.01
+    nickelValue = 0.05
+    dimeValue = 0.1
+    quarterValue = 0.25
+    target = user_input()
+
+    print("Change needed is $" + str(target))
+    # Calculate the amount of coins needed to reach the target value.
+    quarters = target // quarterValue
+    target -= quarters * quarterValue
+
+    dimes = target // dimeValue
+    target -= dimes * dimeValue
+
+    nickels = target // nickelValue
+    target -= nickels * nickelValue
+
+    pennies = target // pennyValue
+    target -= pennies * pennyValue
+
+    print("\t{0} quarters".format(quarters))
+    print("\t{0} dimes".format(dimes))
+    print("\t{0} nickels".format(nickels))
+    print("\t{0} pennies\n".format(pennies))
+
+    go_again()
+
+
+def go_again():
+    choice = input("Would you like to go again? (y/n) ")
+    if choice == "Y" or choice == "y":
+        change()
+    elif choice == "N" or choice == "n":
+        print("\nGoodbye!\n")
+    else:
+        go_again()
+
+
+print("Welcome to the change calculator!\n")
+change()
