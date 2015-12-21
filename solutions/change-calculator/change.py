@@ -8,10 +8,10 @@ nickelValue = 0.05
 dimeValue = 0.1
 quarterValue = 0.25
 
-continue = True
+continue_ = True
 
 # request input
-while continue:
+while continue_:
     print("Welcome to the change calculator!")
 
     price = float(input("What is the price of the item? $"))
@@ -37,7 +37,7 @@ while continue:
     print("\t{} dimes".format(dimes))
     print("\t{} nickels".format(nickels))
     print("\t{} pennies\n".format(pennies))
-    continue = input("To go again press 0:)
+    continue_ = input("To go again press 0:")
 
 
 print("Goodbye!")
