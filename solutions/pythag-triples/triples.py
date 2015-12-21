@@ -2,6 +2,16 @@
 # Python 3.5.1
 # Written by alfredmuffin
 
+def loop():
+    play = input("Would you like to play again? (y/n) "),lower()
+    if play == "n":
+        print("\nGoodbye!")
+        break
+    else:
+        print("I didn't quite catch that.")
+        loop()
+
+
 while True:
     side_1 = int(input("Enter a side: ")) ** 2
     side_2 = int(input("Enter another side: ")) ** 2
@@ -19,9 +29,5 @@ while True:
         print(statement)
     else:
         print(not_statement)
-
-    count = input("\nWould you like to go again? (y/n) ")
-    if count == 'n':
-        break
-
-print("\nGoodbye!")
+    
+    loop()
