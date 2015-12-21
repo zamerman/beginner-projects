@@ -2,6 +2,13 @@
 # Python 3.5.10
 # Written by rsz
 
+# check for amount of items
+def count(Order):
+    final = ""
+    for i in range (1, 10):
+        if order.count(str(i)) > 0:
+            print(str(menulist[i-1]) + ': ' +  str(order.count(str(i))))
+
 
 # create dictionary
 menu = {'Chicken Strips': 3.50, 'French Fries': 2.50, 'Hamburger': 4.00,
@@ -14,13 +21,6 @@ menulist = ['Chicken Strips','French Fries', 'Hamburger', 'Hotdog',
 
 for i in menulist:
     print(i + ':' +  ' $' + str(menu[i]))
-
-# check for amount of items
-def count(Order):
-    final = ""
-    for i in range (1, 10):
-        if order.count(str(i)) > 0:
-            print(str(menulist[i-1]) + ': ' +  str(order.count(str(i))))
         
 # main loop
 while True:
