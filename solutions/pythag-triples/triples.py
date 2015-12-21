@@ -3,19 +3,26 @@
 # Written by alfredmuffin
 
 def loop():
-    play = input("Would you like to play again? (y/n) "),lower()
-    if play == "n":
+    play = input("\nWould you like to play again? (y/n) ").lower()
+    if play == "y":
+        trips()
+    elif play == "n":
         print("\nGoodbye!")
-        break
     else:
         print("I didn't quite catch that.")
         loop()
 
 
-while True:
-    side_1 = int(input("Enter a side: ")) ** 2
-    side_2 = int(input("Enter another side: ")) ** 2
-    side_3 = int(input("Enter another side: ")) ** 2
+def trips():
+    while True:
+        try:
+            side_1 = int(input("Enter a side: ")) ** 2
+            side_2 = int(input("Enter another side: ")) ** 2
+            side_3 = int(input("Enter another side: ")) ** 2
+        except ValueError:
+            print("\nThat is not a number.\n")
+        else:
+            break
 
     statement = "\nThis is a pythagorean triple."
     not_statement = "\nThis is not a pythagorean triple."
@@ -29,5 +36,8 @@ while True:
         print(statement)
     else:
         print(not_statement)
-    
+
     loop()
+
+
+trips()
