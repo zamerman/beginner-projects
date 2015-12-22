@@ -24,20 +24,16 @@ def trips():
         else:
             break
 
-    statement = "\nThis is a pythagorean triple."
-    not_statement = "\nThis is not a pythagorean triple."
-
     triangle = [side_1, side_2, side_3]
     hypotenuse = max(triangle)
 
     triangle.remove(hypotenuse)
 
     if sum(triangle) == hypotenuse:
-        print(statement)
+        print("\nThis is a pythagorean triple."_
     else:
-        print(not_statement)
+        print("\nThis is not a pythagorean triple.")
 
     loop()
-
 
 trips()
