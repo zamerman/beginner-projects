@@ -30,7 +30,7 @@ def trips():
     triangle.remove(hypotenuse)
 
     if sum(triangle) == hypotenuse:
-        print("\nThis is a pythagorean triple."_
+        print("\nThis is a pythagorean triple.")
     else:
         print("\nThis is not a pythagorean triple.")
 
