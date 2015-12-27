@@ -121,6 +121,7 @@ def game():
                         error = False
                     except ValueError:
                         print "Not a valid move!"
+                        time.sleep(1)
                 if move == 1:
                     c_health = scratch(p_health,c_health,'Player')
                     whos_turn = 'Opponent'
