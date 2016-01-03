@@ -8,23 +8,24 @@ from random import randint
 # list of responses
 responses = ["Yes", "No", "Probably", "Maybe", "I don't think so", "Perhaps",
              "It's possible", "Yes, I think so", "That seems likely", "Sure",
-             "That's not possible", "I would hope so", "Sounds like it could be true", 
-             "You shoudn't do that", "But why?", "Dreadfully tinny word, that is", 
+             "That's not possible", "I would hope so", "Sounds like it could be true",
+             "You shoudn't do that", "But why?", "Dreadfully tinny word, that is",
              "The cake is a lie!", "A man chooses. A slave obeys.", "Did you set it to Wumbo?", "42"]
 
 def magic():
     question = input("Ask me a question: ")
+
     print("\nThinking ...")
     sleep(1)
-
     print(responses[randint(0, 20)], "\n")
+
     loop()
 
 def loop():
-    play = input("Would you like to play again? (Y/N) ").lower()
+    play = input("\nWould you like to play again? (y/n) ").lower()
 
     if play == "y":
-        Magic()
+        magic()
 
     elif play == "n":
         print("Goodbye!")
