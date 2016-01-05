@@ -1,6 +1,6 @@
 # Coin Estimator by Weight
 # Python 3.5.1
-# Written by alfredmuffin
+# Written by jrgz
 
 def coin_amount(total_mass, coin_mass):
     # calculates the total amount of one type of coin
