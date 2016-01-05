@@ -1,7 +1,6 @@
 # Change Calculator
 # Python 3.5.1
-# Written by alfredmuffin
-
+# Written by jrgz
 
 def user_input():
     # request input from user
