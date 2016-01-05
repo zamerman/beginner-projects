@@ -1,6 +1,6 @@
 # Magic 8-Ball
 # Python 3.5.1
-# Written by alfredmuffin
+# Written by jrgz
 
 from time import sleep
 from random import randint

@@ -1,6 +1,6 @@
 # Pythagorean Triples Checker
 # Python 3.5.1
-# Written by alfredmuffin
+# Written by jrgz
 
 def loop():
     play = input("\nWould you like to play again? (y/n) ").lower()

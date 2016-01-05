@@ -1,6 +1,6 @@
 # Fibbonacci Sequence
 # Python 3.5.1
-# Written by alfredmuffin
+# Written by jrgz
 
 def fib(n):
     # returns nth term in fibonacci sequence

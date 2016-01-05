@@ -1,6 +1,6 @@
 # Multiplication Table
 # Python 3.5.10
-# Written by alfredmuffin
+# Written by jrgz
 
 for num in range(1, 13):
     for i in range(1, 13):

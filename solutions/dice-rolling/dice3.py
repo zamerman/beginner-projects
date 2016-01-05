@@ -1,6 +1,6 @@
 # Dice Rolling Simulator
 # Python 3.5.1
-# Written by alfredmuffin
+# Written by jrgz
 
 from random import randint
 
@@ -9,10 +9,10 @@ def roll(num_of_sides):
 
 
 def go_again():
-    choice = input("\nWould you like to go again? (y/n) ")
-    if choice == "Y" or choice == "y":
+    choice = input("\nWould you like to go again? (y/n) ").lower()
+    if choice == "y":
         simulator()
-    elif choice == "N" or choice == "n":
+    elif choice == "n":
         print("\nGoodbye!\n")
         return
     else:

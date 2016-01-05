@@ -1,6 +1,6 @@
 # Hangman Game
 # Python 3.5.1
-# Written by alfredmuffin
+# Written by jrgz
 
 import random
 

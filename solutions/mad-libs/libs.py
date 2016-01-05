@@ -1,6 +1,6 @@
 # Mad Libs Story Maker
 # Python 3.5.1
-# Written by alfredmuffin
+# Written by jrgz
 
 print("Please enter: ")
 
