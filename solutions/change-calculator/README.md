@@ -7,4 +7,4 @@ Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dim
   - To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
 
 #####Solutions
-- [jrgz's solution](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/change-calculator/change.py)  
+- [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/change-calculator/change.py)  
