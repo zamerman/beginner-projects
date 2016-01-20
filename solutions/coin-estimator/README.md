@@ -10,4 +10,4 @@ Here is the [weight of each coin](https://en.wikipedia.org/wiki/Coins_of_the_Uni
   - Allow the user to select whether they want to submit the weight in either grams or pounds.
 
 ##### Solutions
-[jrgz's solutions](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/coin-estimator/coins.py)
+[jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/coin-estimator/coins.py)
