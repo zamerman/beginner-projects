@@ -11,5 +11,5 @@ However, there is a dilemma. Since Wikipedia has articles about topics from all 
   - Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
   - Allow the user to simply press ENTER to be asked about a new article.
 
- ##### Solutions
- - [jrgz]()
+##### Solutions
+- [jrgz]()
