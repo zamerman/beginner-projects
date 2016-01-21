@@ -14,29 +14,6 @@ $ python3
 >>> import antigravity
 ```
 
-## Table of Contents
-- [Contributing](https://github.com/alfredmuffin/Beginner-Projects#contributing)
-- [Project List](https://github.com/alfredmuffin/Beginner-Projects#project-list)
-- [Solutions](https://github.com/alfredmuffin/Beginner-Projects#solutions)
-- [Credits](https://github.com/alfredmuffin/Beginner-Projects#credits)
-
-## Contributing
-Contributing to this repository in any way is encouraged.
-
-Some ways to contribute are:
-- Writing new and editing existing solutions
-- Adding solutions in different languages to existing projects
-- Creating or adding new projects to the project list
-- Editing the README
-
-#### Project Solution Header
-Please include the following header in all solution contributions:
-```
-# [project title]
-# [name and version of language used]
-# Written by [github username]
-```
-
 ## Project List
 (projects are ordered by increasing difficulty)
 - [99 Bottles](https://github.com/jrgz/Beginner-Projects/tree/master/solutions/99-bottles)
@@ -63,6 +40,17 @@ Please include the following header in all solution contributions:
 - [Random Wikipedia Article](https://github.com/jrgz/Beginner-Projects/tree/master/solutions/wikipedia)
 - [What's the Weather?](https://github.com/jrgz/Beginner-Projects/tree/master/solutions/weather)
 
+## Contributing
+Contributing to this repository in any way is encouraged.
+
+Some ways to contribute are:
+- Adding solutions
+- Adding new projects to the project list
+- Editing the README
+
+If you want to add a solution to one of the projects: 
+- Save it in your own repository 
+- Add a link to it in this repo in the appropriate project's README.
 
 ## Credits
 Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing) and originally found on [reddit](https://reddit.com/r/beginnerprojects)
