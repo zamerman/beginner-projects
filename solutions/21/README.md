@@ -21,5 +21,5 @@ In this project, you will make a game similar to Blackjack. In this version:
   - At the end of each round, print out the user's total score.
   - This may be the hardest part of the project, depending on how you wrote it. Make sure the deck has 4 of each type of card, and then remove cards as they are drawn. At the end of each round, make the deck have all of the cards again.
 
-  ##### Solutions
-  - [jrgz]()
+##### Solutions
+- [jrgz]()
