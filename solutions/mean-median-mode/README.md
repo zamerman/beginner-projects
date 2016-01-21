@@ -6,5 +6,5 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - If there is an even number of numbers in the list, return both numbers that could be considered the median.
   - If there are multiple modes, return all of them.
 
- ##### Solutions
- - [jrgz]()
+##### Solutions
+- [jrgz]()
