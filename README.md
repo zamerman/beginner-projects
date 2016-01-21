@@ -50,7 +50,9 @@ Some ways to contribute are:
 
 If you want to add a solution to one of the projects: 
 - Save it in your own repository 
-- Add a link to it in this repo in the appropriate project's README.
+- Find the appropriate project folder in the solutions directory in this repo
+- Click on the README.md file and edit it
+- Add a link to your solution in the solution section
 
 ## Credits
 Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing) and originally found on [reddit](https://reddit.com/r/beginnerprojects)
