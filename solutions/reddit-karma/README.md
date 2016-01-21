@@ -11,5 +11,5 @@ Since we're all redditors here, let's make something dealing with reddit. If you
   - Display the amount of upvotes and downvotes each user received for their posts.
   - Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
 
- ##### Solutions
- - [jrgz]()
+##### Solutions
+- [jrgz]()
