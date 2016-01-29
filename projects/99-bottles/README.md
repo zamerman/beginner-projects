@@ -6,3 +6,4 @@
 
 ##### Solutions
 - [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/99-bottles/bottles.py)
+- [sethlugibihl](https://github.com/sethlugibihl/BeginnerProjectSolutions/blob/master/99Bottles.py)
