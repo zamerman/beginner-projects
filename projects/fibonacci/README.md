@@ -6,3 +6,4 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
 
 ##### Solutions
 - [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/fibonacci/fib.py)
+- [sethlugibihl](https://github.com/sethlugibihl/BeginnerProjectSolutions/blob/master/fib.py)
