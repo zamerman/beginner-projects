@@ -5,5 +5,5 @@
 - Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
 
 ##### Solutions
-- [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/99-bottles/bottles.py)
+- [jrgz](https://github.com/jrgz/solutions/blob/master/99-bottles/bottles.py)
 - [sethlugibihl](https://github.com/sethlugibihl/BeginnerProjectSolutions/blob/master/99Bottles.py)
