@@ -1,16 +1,18 @@
 Beginner Projects
 =================
-A list of Python projects for beginners.
+A list of projects for beginners.
 
-If you're completely new to programming in Python, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run Python programs on your machine.
+If you're completely new to programming, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run programs on your own machine.
 
-Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. The overall intent for this repository is to serve as a learning resource for everyone and to help transition learners from a beginning level to an intermediate level.
+Each project idea has a basic goal for you to achieve, as well as subgoals that require a bit more thought, but help make your program more interesting. The overall intent for this repository is to serve as a learning resource for everyone and to help transition learners from a beginning level to an intermediate level. In addition, learners are encouraged to contribute their solutions to this repository and thereby learn the basics of Git.
+
+Almost all projects can be completed in any language, but some were specifically written to be completed with Python.
 
 Remember, if you don't know how to do something, Google is your friend.
 
 If you are completely stuck:
 ```
-$ python3
+$ python
 >>> import antigravity
 ```
 
@@ -55,6 +57,4 @@ If you want to add a solution to one of the projects:
 - Add a link to your solution in the solution section
 
 ## Credits
-Project list copied from [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing) and originally found on [reddit](https://reddit.com/r/beginnerprojects)
-
-Inspired by [Projects](https://github.com/karan/Projects)
+I did not create any of these projects. I originally found them on [reddit](https://reddit.com/r/beginnerprojects) where they are maintained [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing), but I decided that  a Github repository where learners can contribute their own solutions was more user-friendly and accessible, and so this repo was born.
