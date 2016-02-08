@@ -23,3 +23,4 @@ In this project, you will make a game similar to Blackjack. In this version:
 
 ##### Solutions
 - [jrgz]()
+- [RustyHook](https://github.com/RustyHook/21/blob/master/21.py)
