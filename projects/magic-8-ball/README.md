@@ -15,3 +15,4 @@
     
 ##### Solutions
 - [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/magic-8-ball/magic.py)
+- [Everstalk](https://github.com/Everstalk/BP/blob/master/Magic-8-Ball.py)
