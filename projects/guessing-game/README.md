@@ -9,4 +9,4 @@
 
 ##### Solutions
 - [jrgz]()
--[Everstalk](https://github.com/Everstalk/BP/blob/master/Higher-Lower-Guessing-Game.py)
+- [Everstalk](https://github.com/Everstalk/BP/blob/master/Higher-Lower-Guessing-Game.py)
