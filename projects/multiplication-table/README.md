@@ -7,3 +7,4 @@
   
 ##### Solutions
 - [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/multiplication-table/multable.py)
+- [Everstalk](https://github.com/Everstalk/BP/blob/master/Multiplication-Table.py)
