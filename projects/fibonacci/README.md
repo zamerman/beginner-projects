@@ -7,3 +7,4 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
 ##### Solutions
 - [jrgz](https://github.com/jrgz/solutions/blob/master/fibonacci/fib.py)
 - [sethlugibihl](https://github.com/sethlugibihl/BeginnerProjectSolutions/blob/master/fib.py)
+- [Everstalk](https://github.com/Everstalk/BP/blob/master/Fibonacci-Sequence.py)
