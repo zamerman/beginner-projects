@@ -8,3 +8,4 @@
 
 ##### Solutions
 - [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/hangman-game/hangman.py)
+- [Everstalk](https://github.com/Everstalk/BP/blob/master/Hangman.py)
