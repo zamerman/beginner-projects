@@ -5,6 +5,6 @@
 - Loop the program so the user can use it more than once without having to restart the program.
 
 ##### Solutions
-- [JorgeGonzalez](https://github.com/JorgeGonzalez/Beginner-Project-Solutions/blob/master/pythag-triples/triples.py)
+- [JorgeG](https://github.com/JorgeG/solutions/blob/master/pythag-triples/triples.py)
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Pythagorean-Checker.py)
 - [AM1A](https://github.com/AM1A/PythagoreanTriplet)
