@@ -18,3 +18,4 @@ To quickly take orders, your program should allow the user to type in a string o
 
 ##### Solutions
 - [JorgeGonzalez](https://github.com/JorgeGonzalez/Beginner-Project-Solutions/blob/master/menu-calculator/menu.py)
+- [Everstalk](https://github.com/Everstalk/BP/blob/master/Menu-Calculator.py)
