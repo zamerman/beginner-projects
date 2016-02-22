@@ -17,5 +17,5 @@ To quickly take orders, your program should allow the user to type in a string o
   - If an item was not ordered at all, then it should not show up.
 
 ##### Solutions
-- [JorgeGonzalez](https://github.com/JorgeGonzalez/Beginner-Project-Solutions/blob/master/menu-calculator/menu.py)
+- [JorgeG](https://github.com/JorgeG/solutions/blob/master/menu-calculator/menu.py)
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Menu-Calculator.py)
