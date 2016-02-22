@@ -6,5 +6,5 @@
   - Allow the user to choose a number to change the size of the table (so if they type in 12, the table printed out should be a 12x12 multiplication table).
 
 ##### Solutions
-- [JorgeGonzalez](https://github.com/JorgeGonzalez/Beginner-Project-Solutions/blob/master/multiplication-table/multable.py)
+- [JorgeG](https://github.com/JorgeG/solutions/blob/master/multiplication-table/multable.py)
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Multiplication-Table.py)
