@@ -14,5 +14,5 @@
     - quit (this must close the window)
 
 ##### Solutions
-- [JorgeG](https://github.com/JorgeG/Beginner-Project-Solutions/blob/master/magic-8-ball/magic.py)
+- [JorgeG](https://github.com/JorgeG/solutions/blob/master/magic-8-ball/magic.py)
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Magic-8-Ball.py)
