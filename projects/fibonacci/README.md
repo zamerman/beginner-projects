@@ -5,6 +5,6 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
 - You can assume either that the first two terms are 0 and 1 or that they are both 1.
 
 ##### Solutions
-- [JorgeGonzalez](https://github.com/JorgeGonzalez/solutions/blob/master/fibonacci/fib.py)
+- [JorgeG](https://github.com/JorgeG/solutions/blob/master/fibonacci/fib.py)
 - [sethlugibihl](https://github.com/sethlugibihl/BeginnerProjectSolutions/blob/master/fib.py)
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Fibonacci-Sequence.py)
