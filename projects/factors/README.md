@@ -8,4 +8,4 @@
   - If the user's number is prime, note it.
 
 ##### Solutions
-- [JorgeGonzalez](https://github.com/JorgeGonzalez/solutions/blob/master/factors/factors.py)
+- [JorgeG](https://github.com/JorgeG/solutions/blob/master/factors/factors.py)
