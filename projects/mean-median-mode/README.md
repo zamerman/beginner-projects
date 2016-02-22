@@ -7,4 +7,3 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - If there are multiple modes, return all of them.
 
 ##### Solutions
-- [jrgz]()

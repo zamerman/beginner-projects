@@ -4,7 +4,7 @@
 - Subgoals:
   - As your products get larger, your columns will start to get crooked from the number of characters on each line. Clean up your table by evenly spacing columns so it is very easy to find the product of two numbers.
   - Allow the user to choose a number to change the size of the table (so if they type in 12, the table printed out should be a 12x12 multiplication table).
-  
+
 ##### Solutions
-- [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/multiplication-table/multable.py)
+- [JorgeGonzalez](https://github.com/JorgeGonzalez/Beginner-Project-Solutions/blob/master/multiplication-table/multable.py)
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Multiplication-Table.py)

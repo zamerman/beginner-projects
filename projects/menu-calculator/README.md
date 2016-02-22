@@ -15,6 +15,6 @@ To quickly take orders, your program should allow the user to type in a string o
   - If you decide to, print out the items and prices every time before the user types in an order.
   - Once the user has entered an order, print out how many of each item have been ordered, as well as the total price.
   - If an item was not ordered at all, then it should not show up.
-  
+
 ##### Solutions
-- [jrgz](https://github.com/jrgz/Beginner-Project-Solutions/blob/master/menu-calculator/menu.py)
+- [JorgeGonzalez](https://github.com/JorgeGonzalez/Beginner-Project-Solutions/blob/master/menu-calculator/menu.py)

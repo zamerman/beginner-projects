@@ -6,4 +6,3 @@
   - TIP: Making use of built in modules such as time and datetime can change this project from a nightmare into a much simpler task.
 
 ##### Solutions
-- [jrgz]()

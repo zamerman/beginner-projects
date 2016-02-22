@@ -12,4 +12,3 @@ Since we're all redditors here, let's make something dealing with reddit. If you
   - Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
 
 ##### Solutions
-- [jrgz]()

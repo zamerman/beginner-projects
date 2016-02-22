@@ -12,6 +12,6 @@ By using the random module, Python can do things like pseudo-random number gener
   - 1. Create a program that opens a new window and draws 2 six-sided dice
   - 2. Allow the user to quit, or roll again
   - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
-  
+
 ##### Solutions
-- [jrgz](https://github.com/jrgz/solutions/blob/master/dice-rolling/dice.py)
+- [JorgeGonzalez](https://github.com/JorgeGonzalez/solutions/blob/master/dice-rolling/dice.py)

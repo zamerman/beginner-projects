@@ -8,4 +8,3 @@ Because of this problem, your job is to do the following:
 - When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
 
 ##### Solutions
-- [jrgz]()

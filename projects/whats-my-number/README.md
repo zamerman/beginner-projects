@@ -11,4 +11,3 @@ Between 1 and 1000, there is only 1 number that meets the following criteria:
 To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
 
 ##### Solutions
--  [jrgz]()

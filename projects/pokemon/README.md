@@ -9,6 +9,5 @@
   - When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number.
   - When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
   - Give each move a name.
-  
+
 ##### Solutions
-- [jrgz]()

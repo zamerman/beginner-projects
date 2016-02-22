@@ -10,4 +10,3 @@ If you would like to know the basics of what an API is, check out [this](http://
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
 
 ##### Solutions
-- [jrgz]()

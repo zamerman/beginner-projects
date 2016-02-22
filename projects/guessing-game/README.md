@@ -8,5 +8,4 @@
   - At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
 
 ##### Solutions
-- [jrgz]()
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Higher-Lower-Guessing-Game.py)

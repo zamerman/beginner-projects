@@ -16,4 +16,3 @@ There is actually a lot you can do once your program starts receiving facts. Ins
 - By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
 
 ##### Solutions
-- [jrgz]()
