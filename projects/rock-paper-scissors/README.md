@@ -1,4 +1,4 @@
-### Rock-Paper-Scissors Game
+### Rock Paper Scissors Game
 - Create a rock-paper-scissors game.
 - Ask the player to pick rock, paper or scissors.
 - Have the computer chose its move.
