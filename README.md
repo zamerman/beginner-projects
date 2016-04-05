@@ -18,30 +18,30 @@ $ python
 
 ## Project List
 (projects are somewhat ordered by increasing difficulty)
-- [99 Bottles](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/99-bottles/README.md)
-- [Magic 8 Ball](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/magic-8-ball/README.md)
-- [Pythagorean Triples Checker](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/pythag-triples/README.md)
-- [Rock Paper Scissors Game](https://github.com/JorgeG/Beginner-Projects/blob/master/projects/rock-paper-scissors/README.md)
-- [Coin Estimator By Weight](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/coin-estimator/README.md)
-- [Mad Libs Story Maker](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/mad-libs/README.md)
-- [Change Calculator](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/change-calculator/README.md)
-- [Mean, Median, and Mode](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/mean-median-mode/README.md)
-- [Higher Lower Guessing Game](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/guessing-game/README.md)
-- [Multiplication Table](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/multiplication-table/README.md)
-- [Fibonacci Sequence](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/fibonacci/README.md)
-- [Hangman Game](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/hangman-game/README.md)
-- [Menu Calculator](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/menu-calculator/README.md)
-- [Dice Rolling Simulator](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/dice-rolling/README.md)
-- [Count and Fix Green Eggs and Ham](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/green-eggs/README.md)
-- [What's My Number?](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/whats-my-number/README.md)
-- [Factors of a Number](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/factors/README.md)
-- [Countdown Clock](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/countdown-clock/README.md)
-- [Turn Based Pokemon Style Game](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/pokemon/README.md)
-- [A Variation of 21](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/21/README.md)
-- [Compare Recent reddit Karma](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/reddit-karma/README.md)
-- [Watch for New TIL Facts](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/til-facts/README.md)
-- [Random Wikipedia Article](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/wikipedia/README.md)
-- [What's the Weather?](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/weather/README.md)
+- [99 Bottles](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/99-bottles.md)
+- [Magic 8 Ball](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/magic-8-ball.md)
+- [Pythagorean Triples Checker](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/pythag-triples.md)
+- [Rock Paper Scissors Game](https://github.com/JorgeG/Beginner-Projects/blob/master/projects/rock-paper-scissors.md)
+- [Coin Estimator By Weight](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/coin-estimator.md)
+- [Mad Libs Story Maker](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/mad-libs.md)
+- [Change Calculator](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/change-calculator.md)
+- [Mean, Median, and Mode](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/mean-median-mode.md)
+- [Higher Lower Guessing Game](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/guessing-game.md)
+- [Multiplication Table](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/multiplication-table.md)
+- [Fibonacci Sequence](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/fibonacci.md)
+- [Hangman Game](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/hangman-game.md)
+- [Menu Calculator](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/menu-calculator.md)
+- [Dice Rolling Simulator](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/dice-rolling.md)
+- [Count and Fix Green Eggs and Ham](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/green-eggs.md)
+- [What's My Number?](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/whats-my-number.md)
+- [Factors of a Number](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/factors.md)
+- [Countdown Clock](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/countdown-clock.md)
+- [Turn Based Pokemon Style Game](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/pokemon.md)
+- [A Variation of 21](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/21.md)
+- [Compare Recent reddit Karma](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/reddit-karma.md)
+- [Watch for New TIL Facts](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/til-facts.md)
+- [Random Wikipedia Article](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/wikipedia.md)
+- [What's the Weather?](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/weather.md)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
@@ -51,8 +51,8 @@ Some ways to contribute are:
 - Adding new projects to the project list
 - Editing the README
 
-If you want to add a solution to one of the projects: 
-- Save it in your own repository 
+If you want to add a solution to one of the projects:
+- Save it in your own repository
 - Find the appropriate project folder in the solutions directory in this repo
 - Click on the README.md file and edit it
 - Add a link to your solution in the solution section
