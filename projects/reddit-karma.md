@@ -11,5 +11,23 @@ Since we're all redditors here, let's make something dealing with reddit. If you
   - Display the amount of upvotes and downvotes each user received for their posts.
   - Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
 
+####N.B.
+According to [Reddit API](https://github.com/reddit/reddit/wiki/API) 
+
+>"Many default User-Agents (like "Python/urllib" or "Java") are drastically limited to encourage unique and descriptive user-agent strings."
+
+Which means that, more often than not, you will be getting Error 429 (Too many requests). You can try mitigating this with a try/except but that won't be optimal as it can hang for a good minute or two as it will only make things worse.
+
+What you need to do is specify a header in your http request:
+```python
+  header = { 'User-Agent' : 'A simple descriptive header' }
+  req = urllib2.Request(url, headers=header)
+  #then use urllib2.urlopen(req) however you want
+```
+
+Make sure **NOT** to copy the User-Agent headers of browsers or popular reddit-bots as it will result in ban. [[1]](https://github.com/reddit/reddit/wiki/API)
+
+
+
 ##### Solutions
 - [RustyHook](https://github.com/RustyHook/reddit-karma/blob/master/reddit_karma.py)
