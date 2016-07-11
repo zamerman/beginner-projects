@@ -9,3 +9,4 @@
 
 ##### Solutions
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Higher-Lower-Guessing-Game.py)
+- [Zakaer](https://github.com/zakaer/problem-solutions-/blob/master/numberguessinggame.py)
