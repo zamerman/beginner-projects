@@ -16,3 +16,4 @@
 ##### Solutions
 - [JorgeG](https://github.com/JorgeG/solutions/blob/master/magic-8-ball/magic.py)
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Magic-8-Ball.py)
+- [ClarkStraws](https://github.com/ClarkStraws/8_Ball9000#8_ball9000)
