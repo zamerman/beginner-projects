@@ -14,3 +14,4 @@
 - [Miafro](https://github.com/miafro/Python-Beginner-Projects/blob/master/99-bottles.py)
 - [IvanShkarbut](https://github.com/IvanShkarbut/Solution-for-99-bottles/blob/master/bottles.py)
 - [anmol23](https://github.com/anmol23/beginner/blob/master/99%20Bottles%20C%2B%2B)
+- [RianGallagher](https://github.com/RianGallagher/Beginner-projects-solutions/blob/master/99bottles.py)
