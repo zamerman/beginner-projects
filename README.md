@@ -1,5 +1,8 @@
 Beginner Projects
 =================
+
+## I will not make any further changes to this repository. If you would like to maintain it, let me know.
+
 A list of projects for beginners.
 
 If you're completely new to programming, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run programs on your own machine.
