@@ -1,9 +1,6 @@
 Beginner Projects
 =================
 
-## I will not make any further changes to this repository. If you would like to maintain it, let me know.
-
-I'd be interested in maintaining this repository. -Nick (cfme00@gmail.com)
 
 A list of projects for beginners.
 
