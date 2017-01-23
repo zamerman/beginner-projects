@@ -1,7 +1,6 @@
 Beginner Projects
 =================
 
-## I will not make any further changes to this repository. If you would like to maintain it, let me know.
 
 A list of projects for beginners.
 
