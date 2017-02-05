@@ -8,4 +8,4 @@ Because of this problem, your job is to do the following:
 - When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
 
 ##### Solutions
-[Piddl - C++](https://github.com/piddl/randomprojects/blob/master/green-eggs.cpp)
+- [Piddl - C++](https://github.com/piddl/randomprojects/blob/master/green-eggs.cpp)
