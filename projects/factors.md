@@ -8,5 +8,4 @@
   - If the user's number is prime, note it.
 
 ##### Solutions
-- [JorgeG](https://github.com/JorgeG/solutions/blob/master/factors/factors.py)
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Factors%20of%20a%20number.py)
