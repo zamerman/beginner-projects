@@ -9,6 +9,5 @@
   - Keep a record of the score (e.g. Player: 3 / Computer: 6).
 
 ##### Solutions
-[Zakaer](https://github.com/zakaer/bprojectsolutions/blob/master/rockpaperscissors.py)
-
-[Yetunde] (https://github.com/Yetunde79/mynewrepository/blob/master/main.cpp)
+- [Zakaer](https://github.com/zakaer/bprojectsolutions/blob/master/rockpaperscissors.py)
+- [Yetunde] (https://github.com/Yetunde79/mynewrepository/blob/master/main.cpp)
