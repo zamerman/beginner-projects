@@ -14,4 +14,3 @@ By using the random module, Python can do things like pseudo-random number gener
   - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
 
 ##### Solutions
-- [JorgeG](https://github.com/JorgeG/solutions/blob/master/dice-rolling/dice.py)
