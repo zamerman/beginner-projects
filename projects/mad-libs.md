@@ -11,3 +11,5 @@ Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, 
   - Change the word "a" to "an" when the next word in the sentence begins with a vowel.
 
 ##### Solutions
+
+- [luongthomas - Python3](https://github.com/luongthomas/Python-Mini-Projects/blob/master/MadLibs/madLibs.py)
