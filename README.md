@@ -59,5 +59,8 @@ If you want to add a solution to one of the projects:
 - Click on the README.md file and edit it
 - Add a link to your solution in the solution section
 
+## Gitter Community
+Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects/Lobby) where we can code together, chat, and get help on just about anything.
+
 ## Credits
 I did not create any of these projects. I originally found them on [reddit](https://reddit.com/r/beginnerprojects) where they are maintained [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing), although I have since added new ones.
