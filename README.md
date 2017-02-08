@@ -1,6 +1,6 @@
 Beginner Projects
 =================
-
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/beginner-projects/Lobby)
 
 A list of projects for beginners.
 
