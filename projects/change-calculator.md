@@ -8,3 +8,4 @@ Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dim
 
 #####Solutions
 - [Miafro](https://github.com/miafro/Python-Beginner-Projects/blob/master/Cashiers-friend.py)
+- [luongthomas - Python3](https://github.com/luongthomas/Python-Mini-Projects/blob/master/ChangeCalculator/changeCalc.py)
