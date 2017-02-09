@@ -15,3 +15,4 @@
 - [IvanShkarbut](https://github.com/IvanShkarbut/Solution-for-99-bottles/blob/master/bottles.py)
 - [anmol23](https://github.com/anmol23/beginner/blob/master/99%20Bottles%20C%2B%2B)
 - [RianGallagher](https://github.com/RianGallagher/Beginner-projects-solutions/blob/master/99bottles.py)
+- [zpitones - Python3](https://github.com/zpitones/beginner-projects/blob/master/projects/Solutions/99-bottles.py)
