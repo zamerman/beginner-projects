@@ -8,3 +8,4 @@
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Pythagorean-Checker.py)
 - [AM1A](https://github.com/AM1A/PythagoreanTriplet)
 - [LuongThomas - Python ](https://github.com/luongthomas/Python-Mini-Projects/blob/master/PythagoreanTriplesChecker/pythagoreanChecker.py)
+- [zpitones - Python3](https://github.com/zpitones/beginner-projects/blob/master/projects/Solutions/pythag-triples.py)
