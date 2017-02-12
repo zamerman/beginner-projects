@@ -17,3 +17,4 @@
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Magic-8-Ball.py)
 - [ClarkStraws](https://github.com/ClarkStraws/8_Ball9000#8_ball9000)
 - [LuongThomas - Python](https://github.com/luongthomas/Python-Mini-Projects/tree/master/Magic%208%20Ball)
+- [zpitones - Python3](https://github.com/zpitones/beginner-projects/blob/master/projects/Solutions/magic-8-ball.py)
