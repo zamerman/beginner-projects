@@ -13,3 +13,4 @@ Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, 
 ##### Solutions
 
 - [luongthomas - Python3](https://github.com/luongthomas/Python-Mini-Projects/blob/master/MadLibs/madLibs.py)
+- [Jknight85-CPP](https://github.com/Jknight85/MadLibs/blob/master/MadLib/MadLib.cpp)
