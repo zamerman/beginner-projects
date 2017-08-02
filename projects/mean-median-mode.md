@@ -8,3 +8,4 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
 
 ##### Solutions
 [luongthomas - Python3] (https://github.com/luongthomas/Python-Mini-Projects/blob/master/MeanMedianMode/meanMedianMode.py)
+[JarrydKnight](https://github.com/Jknight85/MeanMedianMode/blob/master/MeanMedianMode/MeanMedianMode.cpp)
