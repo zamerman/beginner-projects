@@ -17,3 +17,4 @@
 - [RianGallagher](https://github.com/RianGallagher/Beginner-projects-solutions/blob/master/99bottles.py)
 - [zpitones - Python3](https://github.com/zpitones/beginner-projects/blob/master/projects/Solutions/99-bottles.py)
 - [JarrydKnight](https://github.com/Jknight85/99Bottles/blob/master/99Bottles/99Bottles.cpp)
+- [Sandylee33 - C#](https://github.com/Sandylee33/99-bottles-of-beer/blob/master/99_bottles_of_beer_CSharp/Program.cs)
