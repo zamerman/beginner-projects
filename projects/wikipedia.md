@@ -12,3 +12,4 @@ However, there is a dilemma. Since Wikipedia has articles about topics from all 
   - Allow the user to simply press ENTER to be asked about a new article.
 
 ## Solutions
+[wiki_random](https://github.com/anuragkumarak95/Python/blob/master/wiki_random.py)
