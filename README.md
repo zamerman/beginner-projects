@@ -3,7 +3,7 @@
 
 A list of projects for beginners.
 
-# Anouncement:
+# 🚨 Anouncement:
 In an effort to clean up Beginner Projects, I am no longer accepting pull requests for individial solutions of specific projects. All contributors that have previously added solutions to these projects must create a single, general solution repo, and link that in the new [Solutions](#solutions) section. The individual project solution sections will be removed soon.
 
 ## Table of Contents
@@ -22,6 +22,9 @@ Each project idea has a basic goal for you to achieve, as well as subgoals that 
 Almost all projects can be completed in any language, but some were specifically written to be completed with Python.
 
 Remember, if you don't know how to do something, Google is your friend.
+
+### Gitter Community
+Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects/Lobby) where we can code together, chat, and get help on just about anything.
 
 ## Project List
 *Projects are somewhat ordered by increasing difficulty.*
@@ -59,22 +62,6 @@ Remember, if you don't know how to do something, Google is your friend.
 - Besides the phrase "take one down," you may not type in any numbers/names of numbers directly into your song lyrics.
 - Remember, when you reach 1 bottle left, the word "bottles" becomes singular.
 
-#### Solutions
-- [luongthomas - Python3](https://github.com/luongthomas/Python-Mini-Projects/blob/master/99%20Bottles/99bottles.py)
-- [sethlugibihl](https://github.com/sethlugibihl/BeginnerProjectSolutions/blob/master/99Bottles.py)
-- [JarrettCoker - Java solution](https://github.com/JarrettCoker/Beginner-Projects/blob/master/projects/Solutions/Bottles.java)
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/99%20Bottles.py)
-- [Cloyd1815 - PHP Solution](https://github.com/cloyd1815/bottles/blob/master/99-botles.php)
-- [Piddl - C++](https://github.com/piddl/randomprojects/blob/master/99-bottles.cpp)
-- [Miafro](https://github.com/miafro/Python-Beginner-Projects/blob/master/99-bottles.py)
-- [IvanShkarbut](https://github.com/IvanShkarbut/Solution-for-99-bottles/blob/master/bottles.py)
-- [anmol23](https://github.com/anmol23/beginner/blob/master/99%20Bottles%20C%2B%2B)
-- [RianGallagher](https://github.com/RianGallagher/Beginner-projects-solutions/blob/master/99bottles.py)
-- [zpitones - Python3](https://github.com/zpitones/beginner-projects/blob/master/projects/Solutions/99-bottles.py)
-- [JarrydKnight](https://github.com/Jknight85/99Bottles/blob/master/99Bottles/99Bottles.cpp)
-- [Sandylee33 - C#](https://github.com/Sandylee33/99-bottles-of-beer/blob/master/99_bottles_of_beer_CSharp/Program.cs)
-- [aCharb](https://github.com/acharb/99BottlesBeer/tree/master/99BottlesBeer)
-
 ### Magic 8 Ball
 - Simulate a magic 8-ball.
 - Allow the user to enter their question.
@@ -90,24 +77,11 @@ Remember, if you don't know how to do something, Google is your friend.
     - play again
     - quit (this must close the window)
 
-#### Solutions
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/Magic-8-Ball.py)
-- [ClarkStraws](https://github.com/ClarkStraws/8_Ball9000#8_ball9000)
-- [LuongThomas - Python](https://github.com/luongthomas/Python-Mini-Projects/tree/master/Magic%208%20Ball)
-- [zpitones - Python3](https://github.com/zpitones/beginner-projects/blob/master/projects/Solutions/magic-8-ball.py)
-- [Jknight85](https://github.com/Jknight85/Magic8Bll/blob/8da34de95db06f89e7d7f60d667412871fe9c53d/8Ball/8Ball.cpp)
-
 ### Pythagorean Triples Checker
 - If you do not know how basic right triangles work, read this article on wikipedia[1] .
 - Allows the user to input the sides of any triangle in any order.
 - Return whether the triangle is a Pythagorean Triple or not.
 - Loop the program so the user can use it more than once without having to restart the program.
-
-#### Solutions
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/Pythagorean-Checker.py)
-- [AM1A](https://github.com/AM1A/PythagoreanTriplet)
-- [LuongThomas - Python ](https://github.com/luongthomas/Python-Mini-Projects/blob/master/PythagoreanTriplesChecker/pythagoreanChecker.py)
-- [zpitones - Python3](https://github.com/zpitones/beginner-projects/blob/master/projects/Solutions/pythag-triples.py)
 
 ### Rock Paper Scissors Game
 - Create a rock-paper-scissors game.
@@ -119,12 +93,6 @@ Remember, if you don't know how to do something, Google is your friend.
   - Give the player the option to play again.
   - Keep a record of the score (e.g. Player: 3 / Computer: 6).
 
-#### Solutions
-- [Zakaer](https://github.com/zakaer/bprojectsolutions/blob/master/rockpaperscissors.py)
-- [Yetunde] (https://github.com/Yetunde79/mynewrepository/blob/master/main.cpp)
-- [luongthomas - Python](https://github.com/luongthomas/Python-Mini-Projects/blob/master/RockPaperScissors/rockPaperScissors.py)
-- [JKnight85](https://github.com/Jknight85/PaperRockSissors/blob/73fc1e53c26fc5b166794ad8be158aa7c33ac4e2/PaperRockSissors/PaperRockSissors.cpp)
-
 ### Coin Estimator By Weight
 When some people receive change after shopping, they put it into a container and let it add up over time. Once they fill up the container, they'll roll them up in [coin wrappers](https://en.wikipedia.org/wiki/Coin_wrapper) which can then be traded in at a bank for what they are worth. While most banks will give away coin wrappers for free, it's convenient to have an idea of how many you will need. Instead of counting how many coins you have, it's easier to separate all of your coins, weigh them, and then estimate how many of each type you have and then how many wrappers you'll need.
 For example, if you weigh all of your dimes and see that you have 1276.9g of them, you can estimate that you have about 563 dimes (since each one is 2.268g) and you would be able to fill 11 dime wrappers.
@@ -135,10 +103,6 @@ Here is the [weight of each coin](https://en.wikipedia.org/wiki/Coins_of_the_Uni
 - Subgoals:
   - Round all numbers printed out to the nearest whole number.
   - Allow the user to select whether they want to submit the weight in either grams or pounds.
-
-#### Solutions
-- [luongthomas - Python](https://github.com/luongthomas/Python-Mini-Projects/tree/master/CoinEstimatorByWeight)
-- [Jknight85](https://github.com/Jknight85/CoinEstimatorByWeight/blob/9f1afc53f9f19920526f846e962568bdd4cbae87/CoinWeight/CoinWeight.cpp)
 
 ### Mad Libs Story Maker
 Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, here are the basics:
@@ -152,11 +116,6 @@ Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, 
   - If the user has to put in a name, change the first letter to a capital letter.
   - Change the word "a" to "an" when the next word in the sentence begins with a vowel.
 
-#### Solutions
-
-- [luongthomas - Python3](https://github.com/luongthomas/Python-Mini-Projects/blob/master/MadLibs/madLibs.py)
-- [Jknight85-CPP](https://github.com/Jknight85/MadLibs/blob/master/MadLib/MadLib.cpp)
-
 ### Change Calculator
 - Imagine that your friend is a cashier, but has a hard time counting back change to customers.
 - Create a program that allows him to input a certain amount of change, and then print how how many quarters, dimes, nickels, and pennies are needed to make up the amount needed.
@@ -165,11 +124,6 @@ Example: if he inputs 1.47, the program will say that he needs 5 quarters, 2 dim
   - So your friend doesn't have to calculate how much change is needed, allow him to type in the amount of money given to him and the price of the item. The program should then tell him the amount of each coin he needs like usual.
   - To make the program even easier to use, loop the program back to the top so your friend can continue to use the program without having to close and open it every time he needs to count change.
 
-#### Solutions
-- [NickSchimek](Python-Beginner-Projects/Cashiers-friend/Cashiers-friend.py)
-- [luongthomas - Python3](https://github.com/luongthomas/Python-Mini-Projects/blob/master/ChangeCalculator/changeCalc.py)
-- [Jknight85](https://github.com/Jknight85/ChangeMade/blob/09bf495dc58a93bc4b444982626c62e4c168eca6/ChangeProgram/ChangeProgram.cpp)
-
 ### Mean, Median, and Mode
 In a set of numbers, the mean is the average, the mode is the number that occurs the most, and if you rearrange all the numbers numerically, the median is the number in the middle.
 - Create three functions that allow the user to find the mean, median, and mode of a list of numbers. If you have access or know of functions that already complete these tasks, do not use them.
@@ -177,11 +131,6 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - In the mean function, give the user a way to select how many decimal places they want the answer to be rounded to.
   - If there is an even number of numbers in the list, return both numbers that could be considered the median.
   - If there are multiple modes, return all of them.
-
-#### Solutions
-- [luongthomas - Python3](https://github.com/luongthomas/Python-Mini-Projects/blob/master/MeanMedianMode/meanMedianMode.py)
-- [JarrydKnight](https://github.com/Jknight85/MeanMedianMode/blob/master/MeanMedianMode/MeanMedianMode.cpp)
-
 
 ### Higher Lower Guessing Game
 - Create a simple game where the computer randomly selects a number between 1 and 100 and the user has to guess what the number is.
@@ -192,23 +141,12 @@ In a set of numbers, the mean is the average, the mode is the number that occurs
   - In addition to the congratulatory message at the end of the game, also print out how many guesses were taken before the user arrived at the correct answer.
   - At the end of the game, allow the user to decide if they want to play again (without having to restart the program).
 
-#### Solutions
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/Higher-Lower-Guessing-Game.py)
-- [Zakaer](https://github.com/zakaer/problem-solutions-/blob/master/numberguessinggame.py)
-
-
 ### Multiplication Table
 - Create a program that prints out a multiplication table for the numbers 1 through 9.
 - It should include the numbers 1 through 9 on the top and left axises, and it should be relatively easy to find the product of two numbers. Do not simply write out every line manually (ie print('7 14 21 28 35 49 56 63') ).
 - Subgoals:
   - As your products get larger, your columns will start to get crooked from the number of characters on each line. Clean up your table by evenly spacing columns so it is very easy to find the product of two numbers.
   - Allow the user to choose a number to change the size of the table (so if they type in 12, the table printed out should be a 12x12 multiplication table).
-
-#### Solutions
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/Multiplication-Table.py)
-- [Miafro](https://github.com/miafro/Python-Beginner-Projects/blob/master/Multiplication%20Table/MultiplicationChart.java)
-- [Jknight](https://github.com/Jknight85/MultiplicationTables/blob/master/MultiplicationTables/MultiplicationTables.cpp)
-
 
 ### Fibonacci Sequence
 If you do not know about the Fibonacci Sequence, read about it [here](https://en.wikipedia.org/wiki/Fibonacci_number).
@@ -217,11 +155,6 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
 - You can assume either that the first two terms are 0 and 1 or that they are both 1.
 - There are two methods you can employ to solve the problem. One way is to solve it using a loop and the other way is to use recursion.
 - Try implementing a solution using both methods.
-
-#### Solutions
-- [sethlugibihl](https://github.com/sethlugibihl/BeginnerProjectSolutions/blob/master/fib.py)
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/Fibonacci-Sequence.py)
-
 
 ### Base Jumper
 - Create a program that converts an integer to the specified base.
@@ -232,9 +165,6 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
   - Do not display leading zero's in the result.
   - Validate that the number entered is valid for the specified base
 
-#### Solutions
-
-
 ### Hangman Game
 - Create a program that selects a random word and then allows the user to guess it in a game of hangman.
 - Like the real game, there should be blank spots for each letter in the word, and a part of the body should be added each time the user guesses a letter than is not in the answer.
@@ -242,10 +172,6 @@ If you do not know about the Fibonacci Sequence, read about it [here](https://en
 - Subgoals:
   - If the user loses, print out the word at the end of the game.
   - Create a "give up" option.
-
-#### Solutions
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/Hangman.py)
-
 
 ### Menu Calculator
 Imagine you have started up a small restaurant and are trying to make it easier to take and calculate orders. Since your restaurant only sells 9 different items, you assign each one to a number, as shown below.
@@ -265,11 +191,6 @@ To quickly take orders, your program should allow the user to type in a string o
   - Once the user has entered an order, print out how many of each item have been ordered, as well as the total price.
   - If an item was not ordered at all, then it should not show up.
 
-#### Solutions
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/Menu-Calculator.py)
-- [hilkenbremen](https://github.com/hilkenbremen/beginner-projects/blob/master/menucalc.py)
-
-
 ### Dice Rolling Simulator
 By using the random module, Python can do things like pseudo-random number generation.
 - Allow the user to input the amount of sides on a dice and how many times it should be rolled.
@@ -285,10 +206,6 @@ By using the random module, Python can do things like pseudo-random number gener
   - 2. Allow the user to quit, or roll again
   - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
 
-#### Solutions
-- [sumedhpb](https://github.com/sumedhpb/Beginner_project_solutions/blob/master/dice_simulator.py)
-
-
 ### Count and Fix Green Eggs and Ham
 Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, [here](http://pastebin.com/XMY48CnN) is the story. However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
 Because of this problem, your job is to do the following:
@@ -297,10 +214,6 @@ Because of this problem, your job is to do the following:
 - Have your program make a new file, and have it write out the story correctly.
 - Print out how many errors were corrected.
 - When you're finished, you should have corrected [this many](https://i.imgur.com/GRkj3yz.jpg) errors.
-
-#### Solutions
-- [Piddl - C++](https://github.com/piddl/randomprojects/blob/master/green-eggs.cpp)
-
 
 ### What’s My Number?
 Between 1 and 1000, there is only 1 number that meets the following criteria:
@@ -314,10 +227,6 @@ Between 1 and 1000, there is only 1 number that meets the following criteria:
 
 To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
 
-#### Solutions
-- [anuragkumarak95/MyPython](https://github.com/anuragkumarak95/MyPython/blob/master/whats_my_number.py)
-
-
 ### Factors of a Number
 - Define a function that creates a list of all the numbers that are factors of the user's number.
 - For example, if the function is called factor, factor(36) should return [1, 2, 3, 4, 6, 9, 12, 18, 36].
@@ -327,19 +236,12 @@ To find out if you have the correct number, click [here](https://i.imgur.com/jbz
   - Have the program print the factors of the users number in a comma separated string, without a comma after the last number, and without the brackets of a Python list.
   - If the user's number is prime, note it.
 
-#### Solutions
-- [Everstalk](https://github.com/Everstalk/BP/blob/master/Factors%20of%20a%20number.py)
-
-
 ### Countdown Clock
 - Create a program that allows the user to choose a time and date, and then prints out a message at given intervals (such as every second) that tells the user how much longer there is until the selected time.]
 - Subgoals:
   - If the selected time has already passed, have the program tell the user to start over.
   - If your program asks for the year, month, day, hour, etc. separately, allow the user to be able to type in either the month name or its number.
   - TIP: Making use of built in modules such as time and datetime can change this project from a nightmare into a much simpler task.
-
-#### Solutions
-
 
 ### Turn Based Pokemon Style Game
 - Write a simple game that allows the user and the computer to take turns selecting moves to use against each other.
@@ -352,8 +254,6 @@ To find out if you have the correct number, click [here](https://i.imgur.com/jbz
   - When someone is defeated, make sure the game prints out that their health has reached 0, and not a negative number.
   - When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
   - Give each move a name.
-
-#### Solutions
 
 ### A Variation of 21
 If you do not know how 21 (AKA Blackjack) is played, reading the first couple of paragraphs of [this](https://en.wikipedia.org/wiki/Blackjack) wikipedia article may be beneficial.
@@ -378,11 +278,6 @@ In this project, you will make a game similar to Blackjack. In this version:
   - At the end of each round, print out the user's total score.
   - This may be the hardest part of the project, depending on how you wrote it. Make sure the deck has 4 of each type of card, and then remove cards as they are drawn. At the end of each round, make the deck have all of the cards again.
 
-#### Solutions
-- [RustyHook](https://github.com/RustyHook/21/blob/master/21.py)
-- [hilkenbremen](https://github.com/hilkenbremen/beginner-projects/blob/master/blackjack.py)
-
-
 ### Compare Recent reddit Karma
 Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1]. At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
 - Create a program that gets information about two different users, and then sees whose most recent post received the most karma.
@@ -395,9 +290,6 @@ Since we're all redditors here, let's make something dealing with reddit. If you
   - Allow the user to keep comparing other users until the program is closed.
   - Display the amount of upvotes and downvotes each user received for their posts.
   - Not sure how to turn json data into usable python data? Check [this](http://www.pythonforbeginners.com/python-on-the-web/parse-json-objects-in-python/) out.
-
-#### Solutions
-- [RustyHook](https://github.com/RustyHook/reddit-karma/blob/master/reddit_karma.py)
 
 ### Watch for new TIL facts
 If you finished the previous [project](https://github.com/alfredmuffin/Beginner-Projects#compare-recent-reddit-karma) which compared the karma of two new comments, hopefully you learned a thing or two about receiving data from Reddit's API. Now you're going to take this a step further, and even have the opportunity to make a basic twitter bot.
@@ -416,9 +308,6 @@ There is actually a lot you can do once your program starts receiving facts. Ins
 - Remember, the maximum amount of characters you can use in a tweet is only 140, so you'll have to filter out facts that are longer than that.
 - By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
 
-#### Solutions
-
-
 ### Random Wikipedia Article
 If you've been to Wikipedia, you may have noticed that there is a link to a random article on the left side of the screen. While it can be fun to see what article you get taken to, sometimes it would be nice to see the name of the article so you can skip it if it sounds boring. Luckily, Wikipedia has an API that allows us to do so [Click here](https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=10&format=json).
 However, there is a dilemma. Since Wikipedia has articles about topics from all over the world, some of them have special characters in the title. For example, the article about the spanish painter [Erasto Cortés Juárez](https://en.wikipedia.org/wiki/Erasto_Cort%C3%A9s_Ju%C3%A1rez) has é and á in it. If you look at this specific article's [API](https://en.wikipedia.org/w/api.php?action=query&prop=info&pageids=39608394&inprop=url&format=json), you will see that the title is "Erasto Cort\u00e9s Ju\u00e1rez" and that the \u00e9 and \u00e1 are replacing the two previously mentioned letters. (For information about what this is, start by checking out the first half of [this page](https://docs.python.org/2/howto/unicode.html) in the documentation). To make your program work, you're going to have to handle this problem somehow.
@@ -432,10 +321,6 @@ However, there is a dilemma. Since Wikipedia has articles about topics from all 
   - Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
   - Allow the user to simply press ENTER to be asked about a new article.
 
-#### Solutions
-[wiki_random](https://github.com/anuragkumarak95/Python/blob/master/wiki_random.py)
-
-
 ### What’s the Weather?
 If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
 - Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live.
@@ -447,9 +332,14 @@ If you would like to know the basics of what an API is, check out [this](http://
   - APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
 
-#### Solutions
-
 ## Solutions
+
+- [Everstalk](https://github.com/Everstalk/BP)
+- [NickSchmiek](https://github.com/NickSchimek/Python-Beginner-Projects)
+- [luangthomas](https://github.com/luongthomas/Python-Mini-Projects)
+- [sumedhpd](https://github.com/sumedhpb/Beginner_project_solutions)
+- [hilkenbremen](https://github.com/hilkenbremen/beginner-projects)
+- [zakaer](https://github.com/zakaer/problem-solutions-)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
@@ -464,9 +354,6 @@ If you want to add a solution to one of the projects:
 - Find the appropriate project folder in the solutions directory in this repo
 - Click on the README.md file and edit it
 - Add a link to your solution in the solution section
-
-## Gitter Community
-Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects/Lobby) where we can code together, chat, and get help on just about anything.
 
 ## License and Credits
 I did not create any of these projects. I originally found them on [reddit](https://reddit.com/r/beginnerprojects) where they are maintained [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing), although I have since added new ones.
