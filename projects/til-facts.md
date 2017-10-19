@@ -1,4 +1,4 @@
-### Watch for new TIL facts
+# Watch for new TIL facts
 If you finished the previous [project](https://github.com/alfredmuffin/Beginner-Projects#compare-recent-reddit-karma) which compared the karma of two new comments, hopefully you learned a thing or two about receiving data from Reddit's API. Now you're going to take this a step further, and even have the opportunity to make a basic twitter bot.
 - Create a program that receives data from the [/r/todayilearned](https://reddit.com/r/todayilearned) subreddit, and looks for new facts that have been posted.
 - Each time the program comes across a new fact, the fact should be printed into the command line. However, phrases like "TIL ", "TIL that", etc should be removed so the only thing that is printed is the fact.
@@ -15,4 +15,4 @@ There is actually a lot you can do once your program starts receiving facts. Ins
 - Remember, the maximum amount of characters you can use in a tweet is only 140, so you'll have to filter out facts that are longer than that.
 - By now you should be pretty familiar with python, so if you get ideas for improving your program, go for it!
 
-##### Solutions
+## Solutions
