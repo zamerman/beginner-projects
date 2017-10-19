@@ -1,4 +1,4 @@
-### Compare Recent reddit Karma
+# Compare Recent reddit Karma
 Since we're all redditors here, let's make something dealing with reddit. If you go to a user's profile and add .json to the end of it, you can get the all sorts of Json data about the user (think of Json as a giant dictionary of smaller dictionaries and lists). For example, if I go to my own profile and view it's Json data, it would look like this[1]. At first it might look intimidating, but if you break it down, you can see it's just one giant dictionary with all sorts of information about my latest posts.
 - Create a program that gets information about two different users, and then sees whose most recent post received the most karma.
 - The program should then print out which user received more karma, and what the difference was.
@@ -29,5 +29,5 @@ Make sure **NOT** to copy the User-Agent headers of browsers or popular reddit-b
 
 
 
-##### Solutions
+## Solutions
 - [RustyHook](https://github.com/RustyHook/reddit-karma/blob/master/reddit_karma.py)
