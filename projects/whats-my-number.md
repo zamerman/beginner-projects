@@ -1,4 +1,4 @@
-### What’s My Number?
+# What’s My Number?
 Between 1 and 1000, there is only 1 number that meets the following criteria:
 - The number has two or more digits.
 - The number is prime.
@@ -10,4 +10,4 @@ Between 1 and 1000, there is only 1 number that meets the following criteria:
 
 To find out if you have the correct number, click [here](https://i.imgur.com/jbz4nJ4.jpg).
 
-##### Solutions
+## Solutions
