@@ -1,4 +1,4 @@
-### Mad Libs Story Maker
+# Mad Libs Story Maker
 Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, here are the basics:
 
 "Mad Libs consist of a book that has a short story on each page with many key words replaced with blanks. Beneath each blank is specified a lexical or other category, such as "noun," "verb," "place," or "part of the body." One player asks the other players, in turn, to contribute some word for the specified type for each blank, but without revealing the context for that word. Finally, the completed story is read aloud. The result is usually comic, surreal and somewhat nonsensical."
@@ -10,7 +10,7 @@ Ever played [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)? If you haven't, 
   - If the user has to put in a name, change the first letter to a capital letter.
   - Change the word "a" to "an" when the next word in the sentence begins with a vowel.
 
-##### Solutions
+## Solutions
 
 - [luongthomas - Python3](https://github.com/luongthomas/Python-Mini-Projects/blob/master/MadLibs/madLibs.py)
 - [Jknight85-CPP](https://github.com/Jknight85/MadLibs/blob/master/MadLib/MadLib.cpp)
