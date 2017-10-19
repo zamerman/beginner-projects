@@ -11,4 +11,4 @@ Here is the [weight of each coin](https://en.wikipedia.org/wiki/Coins_of_the_Uni
 
 ##### Solutions
 - [luongthomas - Python](https://github.com/luongthomas/Python-Mini-Projects/tree/master/CoinEstimatorByWeight)
--[Jknight85](https://github.com/Jknight85/CoinEstimatorByWeight/blob/9f1afc53f9f19920526f846e962568bdd4cbae87/CoinWeight/CoinWeight.cpp)
+- [Jknight85](https://github.com/Jknight85/CoinEstimatorByWeight/blob/9f1afc53f9f19920526f846e962568bdd4cbae87/CoinWeight/CoinWeight.cpp)
