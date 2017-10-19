@@ -8,4 +8,4 @@
 ##### Solutions
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Multiplication-Table.py)
 - [Miafro](https://github.com/miafro/Python-Beginner-Projects/blob/master/Multiplication%20Table/MultiplicationChart.java)
--[Jknight](https://github.com/Jknight85/MultiplicationTables/blob/master/MultiplicationTables/MultiplicationTables.cpp)
+- [Jknight](https://github.com/Jknight85/MultiplicationTables/blob/master/MultiplicationTables/MultiplicationTables.cpp)
