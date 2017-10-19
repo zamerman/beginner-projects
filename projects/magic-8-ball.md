@@ -18,4 +18,4 @@
 - [ClarkStraws](https://github.com/ClarkStraws/8_Ball9000#8_ball9000)
 - [LuongThomas - Python](https://github.com/luongthomas/Python-Mini-Projects/tree/master/Magic%208%20Ball)
 - [zpitones - Python3](https://github.com/zpitones/beginner-projects/blob/master/projects/Solutions/magic-8-ball.py)
--[Jknight85](https://github.com/Jknight85/Magic8Bll/blob/8da34de95db06f89e7d7f60d667412871fe9c53d/8Ball/8Ball.cpp)
+- [Jknight85](https://github.com/Jknight85/Magic8Bll/blob/8da34de95db06f89e7d7f60d667412871fe9c53d/8Ball/8Ball.cpp)
