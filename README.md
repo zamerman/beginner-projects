@@ -339,6 +339,7 @@ If you would like to know the basics of what an API is, check out [this](http://
 - [sumedhpd](https://github.com/sumedhpb/Beginner_project_solutions)
 - [hilkenbremen](https://github.com/hilkenbremen/beginner-projects)
 - [zakaer](https://github.com/zakaer/problem-solutions-)
+- [anuragkumarak95](https://github.com/anuragkumarak95/MyPython)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
