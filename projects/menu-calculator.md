@@ -1,4 +1,4 @@
-### Menu Calculator
+# Menu Calculator
 Imagine you have started up a small restaurant and are trying to make it easier to take and calculate orders. Since your restaurant only sells 9 different items, you assign each one to a number, as shown below.
 - 1. Chicken Strips - $3.50
 - 2. French Fries - $2.50
@@ -16,6 +16,6 @@ To quickly take orders, your program should allow the user to type in a string o
   - Once the user has entered an order, print out how many of each item have been ordered, as well as the total price.
   - If an item was not ordered at all, then it should not show up.
 
-##### Solutions
+## Solutions
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Menu-Calculator.py)
 - [hilkenbremen](https://github.com/hilkenbremen/beginner-projects/blob/master/menucalc.py)
