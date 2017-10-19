@@ -1,4 +1,4 @@
-### Turn Based Pokemon Style Game
+# Turn Based Pokemon Style Game
 - Write a simple game that allows the user and the computer to take turns selecting moves to use against each other.
 - Both the computer and the player should start out at the same amount of health (such as 100), and should be able to choose between the three moves:
   - The first move should do moderate damage and has a small range (such as 18-25).
@@ -10,4 +10,4 @@
   - When the computer's health reaches a set amount (such as 35%), increase it's chance to cast heal.
   - Give each move a name.
 
-##### Solutions
+## Solutions
