@@ -31,7 +31,7 @@ $ python
 - [Higher Lower Guessing Game](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/guessing-game.md)
 - [Multiplication Table](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/multiplication-table.md)
 - [Fibonacci Sequence](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/fibonacci.md)
-- [Base Converter (Base Jumper)](https://github.com/jorgegonzalez/beginner-projects/blob/master/projects/Base%20Converter%20(Base%20Jumper).md)
+- [Base Jumper](https://github.com/jorgegonzalez/beginner-projects/blob/master/projects/base-jumper.md)
 - [Hangman Game](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/hangman-game.md)
 - [Menu Calculator](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/menu-calculator.md)
 - [Dice Rolling Simulator](https://github.com/JorgeG/Beginner-Projects/tree/master/projects/dice-rolling.md)
