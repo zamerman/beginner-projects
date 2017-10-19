@@ -1,4 +1,4 @@
-### Base Converter (Base Jumper)
+### Base Jumper
 - Create a program that converts an integer to the specified base.
 - The program should ask for 3 inputs. The number to convert. The base the number is in. And the base to convert the number to.
 - The program should accept a base that is in the range of 2 to 16 inclusive.
