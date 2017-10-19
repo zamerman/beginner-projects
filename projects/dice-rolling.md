@@ -1,4 +1,4 @@
-### Dice Rolling Simulator
+# Dice Rolling Simulator
 By using the random module, Python can do things like pseudo-random number generation.
 - Allow the user to input the amount of sides on a dice and how many times it should be rolled.
 - Your program should simulate dice rolls and keep track of how many times each number comes up (this does not have to be displayed).
@@ -13,5 +13,5 @@ By using the random module, Python can do things like pseudo-random number gener
   - 2. Allow the user to quit, or roll again
   - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
 
-##### Solutions
-* https://github.com/sumedhpb/Beginner_project_solutions
+## Solutions
+- [sumedhpb](https://github.com/sumedhpb/Beginner_project_solutions/blob/master/dice_simulator.py)
