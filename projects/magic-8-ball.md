@@ -1,4 +1,4 @@
-### Magic 8 Ball
+# Magic 8 Ball
 - Simulate a magic 8-ball.
 - Allow the user to enter their question.
 - Display an in progress message(i.e. "thinking").
@@ -13,7 +13,7 @@
     - play again
     - quit (this must close the window)
 
-##### Solutions
+## Solutions
 - [Everstalk](https://github.com/Everstalk/BP/blob/master/Magic-8-Ball.py)
 - [ClarkStraws](https://github.com/ClarkStraws/8_Ball9000#8_ball9000)
 - [LuongThomas - Python](https://github.com/luongthomas/Python-Mini-Projects/tree/master/Magic%208%20Ball)
