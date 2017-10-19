@@ -12,7 +12,7 @@ In an effort to clean up Beginner Projects, I am no longer accepting pull reques
 - [Projects](#projects)
 - [Solutions](#solutions)
 - [Contributing](#contributing)
-- [Licence and Credits](#licence-and-credits)
+- [Credits](#licence-and-credits)
 
 ## Getting Started
 If you're completely new to programming, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run programs on your own machine.
@@ -333,7 +333,6 @@ If you would like to know the basics of what an API is, check out [this](http://
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
 
 ## Solutions
-
 - [Everstalk](https://github.com/Everstalk/BP)
 - [NickSchmiek](https://github.com/NickSchimek/Python-Beginner-Projects)
 - [luangthomas](https://github.com/luongthomas/Python-Mini-Projects)
@@ -349,11 +348,10 @@ Some ways to contribute are:
 - Adding new projects to the project list
 - Editing the README
 
-If you want to add a solution to one of the projects:
-- Save it in your own repository
-- Find the appropriate project folder in the solutions directory in this repo
-- Click on the README.md file and edit it
-- Add a link to your solution in the solution section
+### Contributing Solutions
+- Create a new repository called `beginner-project-solutions` (or some variation thereof).
+- Add at least one project solution to that repository.
+- Add a link to your new repository at the end of the list in the [Solutions](#solutions) section of this README with your GitHub username.
 
-## License and Credits
-I did not create any of these projects. I originally found them on [reddit](https://reddit.com/r/beginnerprojects) where they are maintained [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing), although I have since added new ones.
+## Credits
+Most of these project ideas were originally created on [reddit](https://reddit.com/r/beginnerprojects) where the original links are officially maintained [here](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit?usp=sharing). The projects in this repository that are not in that list have been added by this project's contributors.
