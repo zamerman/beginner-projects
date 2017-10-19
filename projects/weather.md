@@ -1,4 +1,4 @@
-### What’s the Weather?
+# What’s the Weather?
 If you would like to know the basics of what an API is, check out [this](http://www.reddit.com/r/explainlikeimfive/comments/qowts/eli5_what_is_api/c3z9kok) post by iamapizza.
 - Create a program that pulls data from OpenWeatherMap.org and prints out information about the current weather, such as the high, the low, and the amount of rain for wherever you live.
 - Subgoals:
@@ -9,4 +9,4 @@ If you would like to know the basics of what an API is, check out [this](http://
   - APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
 
-##### Solutions
+## Solutions
