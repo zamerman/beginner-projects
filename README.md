@@ -52,7 +52,8 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Compare Recent reddit Karma](#compare-recent-reddit-karma)
 - [Watch for New TIL Facts](#watch-for-new-til-facts)
 - [Random Wikipedia Article](#random-wikipedia-article)
-- [What's the Weather?](#whats-the-weather)
+- [What's the Weather?](#what’s-the-weather)
+- [Sierpinski Triangle](#sierpinski-triangle)
 
 ## Projects
 
@@ -331,6 +332,18 @@ If you would like to know the basics of what an API is, check out [this](http://
 - Tips:
   - APIs that are in Json are essentially lists and dictionaries. Remember that to reference something in a list, you must refer to it by what number element it is in the list, and to reference a key in a dictionary, you must refer to it by it's name.
   - Don't like Celsius? Add &units=imperial to the end of the URL of the API to receive your data in Fahrenheit.
+
+### Sierpinski Triangle
+
+The [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) (also with the original orthography Sierpinski), also called the Sierpinski gasket or the Sierpinski Sieve, is a fractal and attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets, i.e., it is a mathematically generated pattern that can be reproducible at any magnification or reduction. It is named after the Polish mathematician _Waclaw Sierpinski_, but appeared as a decorative pattern many centuries prior to the work of Sierpinski.
+
+Task in hand :
+
+- create and visualize a fractal generator that forms a standard ***sierpinski triangle***.
+- perform this using recursive calls.
+
+- Subgoals :
+  - Also accept ***depth*** for which the fractal should be generated.
 
 ## Solutions
 - [Everstalk](https://github.com/Everstalk/BP)
