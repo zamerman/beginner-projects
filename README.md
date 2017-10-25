@@ -365,6 +365,7 @@ return [0, 1].
 - [hilkenbremen](https://github.com/hilkenbremen/beginner-projects)
 - [zakaer](https://github.com/zakaer/problem-solutions-)
 - [anuragkumarak95](https://github.com/anuragkumarak95/MyPython)
+- [AnanyaTyagi](https://github.com/AnanyaTyagi/BeginnerProjects)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
