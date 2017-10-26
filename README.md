@@ -55,6 +55,8 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [What's the Weather?](#what’s-the-weather)
 - [Sierpinski Triangle](#sierpinski-triangle)
 - [Two Numbers](#two-numbers)
+- [Chickens and Rabbits](#chickens-and-rabbits)
+
 ## Projects
 
 ### 99 Bottles
@@ -356,6 +358,15 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
+### Chickens and Rabbits
+
+Write a program to solve a classic ancient Chinese puzzle:
+We count 35 heads and 94 legs among the chickens and rabbits in a farm.
+How many rabbits and how many chickens do we have?
+
+Hint:
+Use for loop to iterate all possible solutions.
+
 
 ## Solutions
 - [Everstalk](https://github.com/Everstalk/BP)
