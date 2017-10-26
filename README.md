@@ -377,6 +377,7 @@ Use for loop to iterate all possible solutions.
 - [zakaer](https://github.com/zakaer/problem-solutions-)
 - [anuragkumarak95](https://github.com/anuragkumarak95/MyPython)
 - [AnanyaTyagi](https://github.com/AnanyaTyagi/BeginnerProjects)
+- [aviral36](https://github.com/aviral36/BeginnerProjects)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
