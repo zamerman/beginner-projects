@@ -3,9 +3,6 @@
 
 A list of projects for beginners.
 
-# 🚨 Anouncement:
-In an effort to clean up Beginner Projects, I am no longer accepting pull requests for individial solutions of specific projects. All contributors that have previously added solutions to these projects must create a single, general solution repo, and link that in the new [Solutions](#solutions) section. The individual project solution sections will be removed soon.
-
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Project List](#project-list)
