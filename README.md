@@ -379,6 +379,7 @@ Use for loop to iterate all possible solutions.
 - [AnanyaTyagi](https://github.com/AnanyaTyagi/BeginnerProjects)
 - [aviral36](https://github.com/aviral36/BeginnerProjects)
 - [avantikasharma](https://github.com/avantikasharma/beg_project)
+- [mattcarmody](https://github.com/mattcarmody/r-Beginner-Projects)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
