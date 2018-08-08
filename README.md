@@ -382,6 +382,7 @@ Use for loop to iterate all possible solutions.
 - [guvi007](https://github.com/guvi007/beginner-problems)
 - [ayseenver](https://github.com/ayseenver/BeginnerCPP)
 - [sdmaes18](https://github.com/sdmaes18/Beginner)
+- [jclane](https://github.com/jclane/beginner-project-solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
