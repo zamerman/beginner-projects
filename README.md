@@ -383,6 +383,7 @@ Use for loop to iterate all possible solutions.
 - [ayseenver](https://github.com/ayseenver/BeginnerCPP)
 - [sdmaes18](https://github.com/sdmaes18/Beginner)
 - [jclane](https://github.com/jclane/beginner-project-solutions)
+- [uityh](https://github.com/uityh/Beginner-Project-Solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
