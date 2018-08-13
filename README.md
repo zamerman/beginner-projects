@@ -378,8 +378,6 @@ Use for loop to iterate all possible solutions.
 - [aviral36](https://github.com/aviral36/BeginnerProjects)
 - [avantikasharma](https://github.com/avantikasharma/beg_project)
 - [mattcarmody](https://github.com/mattcarmody/r-Beginner-Projects)
-- [thedevelopersanjeev](https://github.com/thedevelopersanjeev/beginner-projects-solutions)
-- [guvi007](https://github.com/guvi007/beginner-problems)
 - [ayseenver](https://github.com/ayseenver/BeginnerCPP)
 - [sdmaes18](https://github.com/sdmaes18/Beginner)
 - [jclane](https://github.com/jclane/beginner-project-solutions)
