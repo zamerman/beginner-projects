@@ -78,7 +78,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
     - quit (this must close the window)
 
 ### Pythagorean Triples Checker
-- If you do not know how basic right triangles work, read this article on wikipedia[1] .
+- If you do not know how basic right triangles work, or what a Pythagorean Triple is read these articles on Wikipedia[¹](https://en.wikipedia.org/wiki/Right_triangle) [²](https://en.wikipedia.org/wiki/Pythagorean_triple).
 - Allows the user to input the sides of any triangle in any order.
 - Return whether the triangle is a Pythagorean Triple or not.
 - Loop the program so the user can use it more than once without having to restart the program.
