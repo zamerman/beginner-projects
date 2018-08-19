@@ -382,6 +382,7 @@ Use for loop to iterate all possible solutions.
 - [sdmaes18](https://github.com/sdmaes18/Beginner)
 - [jclane](https://github.com/jclane/beginner-project-solutions)
 - [uityh](https://github.com/uityh/Beginner-Project-Solutions)
+- [Sudz](https://github.com/sudz123/beginner_project_solutions/tree/master)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
