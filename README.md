@@ -385,6 +385,7 @@ Use for loop to iterate all possible solutions.
 - [Sudz](https://github.com/sudz123/beginner_project_solutions/tree/master)
 - [MKJM2](https://github.com/MKJM2/beginner-project-solutions/tree/master)
 - [chuckytah](https://github.com/chuckytah/beginner-projects)
+- [Nikhil](https://github.com/imsnik/project-solution)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
