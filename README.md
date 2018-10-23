@@ -53,6 +53,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Sierpinski Triangle](#sierpinski-triangle)
 - [Two Numbers](#two-numbers)
 - [Chickens and Rabbits](#chickens-and-rabbits)
+- [FLAMES Game](#FLAMES-Game)
 
 ## Projects
 
@@ -364,6 +365,11 @@ How many rabbits and how many chickens do we have?
 Hint:
 Use for loop to iterate all possible solutions.
 
+### FLAMES Game
+
+Write a program which implements Flames.
+
+Flames is an interesting game that people play to learn about their relationships. Flames is named after the acronym: Friends, Lovers, Affectionate, Marriage, Enemies, and Siblings. It is a popular game among young people, especially those beginning to explore the world of crushes. Learn more about Flames [here](https://medium.com/@ritwika285/how-to-play-flames-game-890edc7bf3d) or [here](https://www.wikihow.com/Play-%22Flame%22)
 
 ## Solutions
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
