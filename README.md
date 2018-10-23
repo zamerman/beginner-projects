@@ -388,6 +388,7 @@ Use for loop to iterate all possible solutions.
 - [Nikhil](https://github.com/imsnik/project-solution)
 - [Brad135971](https://github.com/Brad135971/beginner-project-solutions)
 - [spiraldancer](https://github.com/spiraldancer/beginner-project-solutions)
+- [parthkandpal](https://github.com/parthkandpal/beginner-project-solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
