@@ -54,6 +54,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/beginner-projects
 - [Two Numbers](#two-numbers)
 - [Chickens and Rabbits](#chickens-and-rabbits)
 - [FLAMES Game](#FLAMES-Game)
+- [Scarne's Dice](#Scarne's-Dice)
 
 ## Projects
 
@@ -370,6 +371,10 @@ Use for loop to iterate all possible solutions.
 Write a program which implements Flames.
 
 Flames is an interesting game that people play to learn about their relationships. Flames is named after the acronym: Friends, Lovers, Affectionate, Marriage, Enemies, and Siblings. It is a popular game among young people, especially those beginning to explore the world of crushes. Learn more about Flames [here](https://medium.com/@ritwika285/how-to-play-flames-game-890edc7bf3d) or [here](https://www.wikihow.com/Play-%22Flame%22)
+
+### Scarne's Dice
+
+Turn-based dice game where players score points by rolling a die and then: if they roll a 1, score no points and lose their turn, if they roll a 2 to 6: add the rolled value to their points choose to either reroll or keep their score and end their turn. The winner is the first player that reaches (or exceeds) 100 points.
 
 ## Solutions
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
