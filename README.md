@@ -416,6 +416,7 @@ Turn-based dice game where players score points by rolling a die and then: if th
 - [spiraldancer](https://github.com/spiraldancer/beginner-project-solutions)
 - [parthkandpal](https://github.com/parthkandpal/beginner-project-solutions)
 - [mark-quinn](https://github.com/mark-quinn/random-but-useful-ruby-programs)
+- [My3bka](https://github.com/My3bka/beginner-project-solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
