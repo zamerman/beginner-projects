@@ -418,6 +418,8 @@ Turn-based dice game where players score points by rolling a die and then: if th
 - [mark-quinn](https://github.com/mark-quinn/random-but-useful-ruby-programs)
 - [My3bka](https://github.com/My3bka/beginner-project-solutions)
 - [vishal-vardhan](https://github.com/vishal-vardhan/beginner-project.git)
+- [areetaw](https://github.com/areetaw/beginner-projects-solutionst)
+
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
