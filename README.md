@@ -419,6 +419,7 @@ Turn-based dice game where players score points by rolling a die and then: if th
 - [My3bka](https://github.com/My3bka/beginner-project-solutions)
 - [vishal-vardhan](https://github.com/vishal-vardhan/beginner-project.git)
 - [areetaw](https://github.com/areetaw/beginner-projects-solutionst)
+- [madelinecodes](https://github.com/madelinecodes/beginner-projects)
 
 
 ## Contributing
