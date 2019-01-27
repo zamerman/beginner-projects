@@ -420,6 +420,7 @@ Turn-based dice game where players score points by rolling a die and then: if th
 - [vishal-vardhan](https://github.com/vishal-vardhan/beginner-project.git)
 - [areetaw](https://github.com/areetaw/beginner-projects-solutionst)
 - [madelinecodes](https://github.com/madelinecodes/beginner-projects)
+- [Recandi](https://github.com/Recandi/rust-beginner-projects)
 
 
 ## Contributing
