@@ -431,10 +431,10 @@ Hint: If you are dealing with languages such as ***c*** then consider the senten
 - [mark-quinn](https://github.com/mark-quinn/random-but-useful-ruby-programs)
 - [My3bka](https://github.com/My3bka/beginner-project-solutions)
 - [vishal-vardhan](https://github.com/vishal-vardhan/beginner-project.git)
+- [hc65100](https://github.com/Hc165100/sample-project-solutions.git)
 - [areetaw](https://github.com/areetaw/beginner-projects-solutionst)
 - [madelinecodes](https://github.com/madelinecodes/beginner-projects)
 - [Recandi](https://github.com/Recandi/rust-beginner-projects)
-
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
