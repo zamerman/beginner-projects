@@ -429,6 +429,7 @@ Hint: If you are dealing with languages such as ***c*** then consider the senten
 - [spiraldancer](https://github.com/spiraldancer/beginner-project-solutions)
 - [parthkandpal](https://github.com/parthkandpal/beginner-project-solutions)
 - [mark-quinn](https://github.com/mark-quinn/random-but-useful-ruby-programs)
+- [Helkat](https://github.com/Helkat/beginner-project-solutions)
 - [My3bka](https://github.com/My3bka/beginner-project-solutions)
 - [vishal-vardhan](https://github.com/vishal-vardhan/beginner-project.git)
 - [hc65100](https://github.com/Hc165100/sample-project-solutions.git)
