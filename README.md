@@ -9,7 +9,7 @@ A list of projects for beginners.
 - [Projects](#projects)
 - [Solutions](#solutions)
 - [Contributing](#contributing)
-- [Credits](#licence-and-credits)
+- [Credits](#credits)
 
 ## Getting Started
 If you're completely new to programming, you may want to look into a [tutorial](https://www.codecademy.com/learn/python). Before starting, you should already know the basics of programming such as variables, loops, dictionaries, and how to define functions, as well as how to run programs on your own machine.
