@@ -441,6 +441,7 @@ Hint: If you are dealing with languages such as ***c*** then consider the senten
 - [tmug94](https://github.com/tmug94/beginner_project_solutions)
 - [oscarada87](https://github.com/oscarada87/beginner-project-solutions)
 - [jelenam86](https://github.com/jelenam86/SolutionsBeginnerProjects)
+- [vpatyal](https://github.com/vpatyal/beginner-projects-solutions)
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
